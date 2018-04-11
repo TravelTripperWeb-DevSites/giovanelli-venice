@@ -27,23 +27,24 @@
     {
       "name": "Superior Room Image 1",
       "file_name": "Superior Room Image 1",
-      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131512/68902_1_yankee_large.jpg",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-11-132212/68902_1_yankee_large.jpg",
       "tags": "",
       "description": "",
-      "date_added": "2018-04-11-131512",
+      "date_added": "2018-04-11-132212",
       "file_type": "image/jpeg",
       "width": 800,
       "height": 600,
       "file_size": 69552,
-      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131512/large_68902_1_yankee_large.jpg",
-      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131512/medium_68902_1_yankee_large.jpg",
-      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131512/small_68902_1_yankee_large.jpg",
-      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131512/xsmall_68902_1_yankee_large.jpg",
-      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131512/thumb_68902_1_yankee_large.jpg",
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-11-132212/large_68902_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-11-132212/medium_68902_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-11-132212/small_68902_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-11-132212/xsmall_68902_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-11-132212/thumb_68902_1_yankee_large.jpg",
       "caption": "Image 1",
       "alt": "Image 1"
     }
   ],
   "": "RM4",
-  "order": 4
+  "order": 4,
+  "reztrip_room_id": "RM4"
 }
