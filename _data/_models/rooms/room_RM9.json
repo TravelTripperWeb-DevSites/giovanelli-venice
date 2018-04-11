@@ -1,0 +1,31 @@
+{
+  "name_localized": {
+    "en": "Suite, Canal View (Suite Foscarini)",
+    "es": "Suite, Canal View (Suite Foscarini)"
+  },
+  "short_description_localized": {
+    "en": "Suite, Canal View (Suite Foscarini)",
+    "es": "Suite, Canal View (Suite Foscarini)"
+  },
+  "description_localized": {
+    "en": "<strong>1 Double Bed</strong><br />646-sq-foot (60-sq-meter) room with canal views<br /><br /><b>Internet</b> - WiFi and wired Internet access <br /> <b>Entertainment</b> - LCD television with satellite channels and pay movies<br /><b>Food & Drink</b> - Room service and minibar<br /><b>Sleep</b> - Select Comfort bed, premium bedding, and turndown service <br /><b>Bathroom</b> - Private bathroom, shower/tub combination, free toiletries, and a hair dryer<br /><b>Practical</b> - Safe and desk<br /><b>Comfort</b> - Air conditioning and daily housekeeping<br />Non-Smoking<br />&nbsp;",
+    "es": "<strong>1 Double Bed</strong><br />646-sq-foot (60-sq-meter) room with canal views<br /><br /><b>Internet</b> - WiFi and wired Internet access <br /> <b>Entertainment</b> - LCD television with satellite channels and pay movies<br /><b>Food & Drink</b> - Room service and minibar<br /><b>Sleep</b> - Select Comfort bed, premium bedding, and turndown service <br /><b>Bathroom</b> - Private bathroom, shower/tub combination, free toiletries, and a hair dryer<br /><b>Practical</b> - Safe and desk<br /><b>Comfort</b> - Air conditioning and daily housekeeping<br />Non-Smoking<br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Non-Smoking"
+      }
+    ],
+    "es": [
+      {
+        "name": "Non-Smoking"
+      }
+    ]
+  },
+  "images": [
+
+  ],
+  "": "RM9",
+  "order": 9
+}

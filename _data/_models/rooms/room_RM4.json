@@ -1,0 +1,49 @@
+{
+  "name_localized": {
+    "en": "Superior Room",
+    "es": "Superior Room"
+  },
+  "short_description_localized": {
+    "en": "Superior Room",
+    "es": "Superior Room"
+  },
+  "description_localized": {
+    "en": "<strong>1 Double Bed or 2 Twin Beds</strong><br />207-sq-foot (19-sq-meter) room with garden views<br /><br /><b>Internet</b> - WiFi and wired Internet access <br /> <b>Entertainment</b> - LCD television with satellite channels and pay movies<br /><b>Food & Drink</b> - Room service and minibar<br /><b>Sleep</b> - Select Comfort bed, premium bedding, and turndown service <br /><b>Bathroom</b> - Private bathroom, shower/tub combination, free toiletries, and a hair dryer<br /><b>Practical</b> - Safe and desk<br /><b>Comfort</b> - Air conditioning and daily housekeeping<br />Non-Smoking<br />&nbsp;",
+    "es": "<strong>1 Double Bed or 2 Twin Beds</strong><br />207-sq-foot (19-sq-meter) room with garden views<br /><br /><b>Internet</b> - WiFi and wired Internet access <br /> <b>Entertainment</b> - LCD television with satellite channels and pay movies<br /><b>Food & Drink</b> - Room service and minibar<br /><b>Sleep</b> - Select Comfort bed, premium bedding, and turndown service <br /><b>Bathroom</b> - Private bathroom, shower/tub combination, free toiletries, and a hair dryer<br /><b>Practical</b> - Safe and desk<br /><b>Comfort</b> - Air conditioning and daily housekeeping<br />Non-Smoking<br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Non-Smoking"
+      }
+    ],
+    "es": [
+      {
+        "name": "Non-Smoking"
+      }
+    ]
+  },
+  "images": [
+    {
+      "name": "Superior Room Image 1",
+      "file_name": "Superior Room Image 1",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131512/68902_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-11-131512",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 69552,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131512/large_68902_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131512/medium_68902_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131512/small_68902_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131512/xsmall_68902_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131512/thumb_68902_1_yankee_large.jpg",
+      "caption": "Image 1",
+      "alt": "Image 1"
+    }
+  ],
+  "": "RM4",
+  "order": 4
+}

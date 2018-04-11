@@ -1,0 +1,87 @@
+{
+  "name_localized": {
+    "en": "Junior Suite",
+    "es": "Junior Suite"
+  },
+  "short_description_localized": {
+    "en": "Junior Suite",
+    "es": "Junior Suite"
+  },
+  "description_localized": {
+    "en": "<strong>1 Double Bed or 1 Twin Bed</strong><br />270-sq-foot (25-sq-meter) room with garden views<br /><br /><b>Internet</b> - WiFi and wired Internet access <br /> <b>Entertainment</b> - 30-inch LCD TV with satellite channels and pay movies<br /><b>Food & Drink</b> - Room service and minibar<br /><b>Sleep</b> - Select Comfort bed, premium bedding, and turndown service <br /><b>Bathroom</b> - Private bathroom, shower/tub combination, slippers, and free toiletries<br /><b>Practical</b> - Phone, safe, and desk<br /><b>Comfort</b> - Air conditioning and daily housekeeping<br />Smoking/Non Smoking<br />&nbsp;",
+    "es": "<strong>1 Double Bed or 1 Twin Bed</strong><br />270-sq-foot (25-sq-meter) room with garden views<br /><br /><b>Internet</b> - WiFi and wired Internet access <br /> <b>Entertainment</b> - 30-inch LCD TV with satellite channels and pay movies<br /><b>Food & Drink</b> - Room service and minibar<br /><b>Sleep</b> - Select Comfort bed, premium bedding, and turndown service <br /><b>Bathroom</b> - Private bathroom, shower/tub combination, slippers, and free toiletries<br /><b>Practical</b> - Phone, safe, and desk<br /><b>Comfort</b> - Air conditioning and daily housekeeping<br />Smoking/Non Smoking<br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Smoking And Non-Smoking"
+      }
+    ],
+    "es": [
+      {
+        "name": "Smoking And Non-Smoking"
+      }
+    ]
+  },
+  "images": [
+    {
+      "name": "Junior Suite Image 1",
+      "file_name": "Junior Suite Image 1",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131527/68884_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-11-131527",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 71198,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131527/large_68884_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131527/medium_68884_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131527/small_68884_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131527/xsmall_68884_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131527/thumb_68884_1_yankee_large.jpg",
+      "caption": "Image 1",
+      "alt": "Image 1"
+    },
+    {
+      "name": "Junior Suite Image 2",
+      "file_name": "Junior Suite Image 2",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131530/68887_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-11-131530",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 51240,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131530/large_68887_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131530/medium_68887_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131530/small_68887_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131530/xsmall_68887_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131530/thumb_68887_1_yankee_large.jpg",
+      "caption": "Image 2",
+      "alt": "Image 2"
+    },
+    {
+      "name": "Junior Suite Image 3",
+      "file_name": "Junior Suite Image 3",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131532/68889_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-11-131532",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 39396,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131532/large_68889_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131532/medium_68889_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131532/small_68889_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131532/xsmall_68889_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_860/media/2018-04-11-131532/thumb_68889_1_yankee_large.jpg",
+      "caption": "Image 3",
+      "alt": "Image 3"
+    }
+  ],
+  "": "RM7",
+  "order": 7
+}

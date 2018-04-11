@@ -1,0 +1,31 @@
+{
+  "name_localized": {
+    "en": "Standard Double or Twin Room, Accessible",
+    "es": "Standard Double or Twin Room, Accessible"
+  },
+  "short_description_localized": {
+    "en": "Standard Double or Twin Room, Accessible",
+    "es": "Standard Double or Twin Room, Accessible"
+  },
+  "description_localized": {
+    "en": "<strong>1 Double Bed or 1 Twin Bed</strong><br />129 sq feet (12 sq meters)<br /><br /><b>Internet</b> - WiFi and wired Internet access <br /> <b>Entertainment</b> - 20-inch LCD TV with satellite channels and pay movies<br /><b>Food & Drink</b> - Room service and minibar<br /><b>Sleep</b> - Select Comfort bed, premium bedding, and turndown service <br /><b>Bathroom</b> - Private bathroom, shower, free toiletries, and a hair dryer<br /><b>Practical</b> - Safe and desk<br /><b>Comfort</b> - Air conditioning and daily housekeeping<br />Smoking/Non Smoking<br />&nbsp;",
+    "es": "<strong>1 Double Bed or 1 Twin Bed</strong><br />129 sq feet (12 sq meters)<br /><br /><b>Internet</b> - WiFi and wired Internet access <br /> <b>Entertainment</b> - 20-inch LCD TV with satellite channels and pay movies<br /><b>Food & Drink</b> - Room service and minibar<br /><b>Sleep</b> - Select Comfort bed, premium bedding, and turndown service <br /><b>Bathroom</b> - Private bathroom, shower, free toiletries, and a hair dryer<br /><b>Practical</b> - Safe and desk<br /><b>Comfort</b> - Air conditioning and daily housekeeping<br />Smoking/Non Smoking<br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Smoking And Non-Smoking"
+      }
+    ],
+    "es": [
+      {
+        "name": "Smoking And Non-Smoking"
+      }
+    ]
+  },
+  "images": [
+
+  ],
+  "": "RM1",
+  "order": 1
+}
