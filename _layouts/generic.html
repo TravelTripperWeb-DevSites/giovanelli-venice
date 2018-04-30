@@ -1,0 +1,152 @@
+---
+layout: default
+---
+
+{% assign default_hero_image = '//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121153/city-view.jpg' %}
+{% include components/short-hero %}
+
+
+<div class='tt-region' data-region='testRegion' data-region-type='mixed'>
+  <script type="application/json">
+    {
+      customTemplate: {
+        settings: {
+        
+        },
+        editableContent: {
+          col1: {
+            settings: {
+              type: {
+                type: "select",
+                options: ["html", "image"]
+              },
+              style: {
+                type: "select",
+                options: "black", "dark", "light", "gold"
+              }  
+            }
+          }
+          col2: {
+            settings: {
+              type: {
+                type: "select",
+                options: ["html", "image"]
+              },
+              style: {
+                type: "select",
+                options: "black", "dark", "light", "gold"
+              }  
+            }
+          }
+        },
+        template: "<div class=\"row content-panel\"><div class=\"col-md-6 content-col content-col--{{col1.style}}\">{{col1.content}}</div><div class=\"col-md-6 content-col content-col--{{col1.style}}\">{{col2.content}}</div></div>"
+      }
+    }
+  </script>
+  <div class="row content-panel">
+    {{ assign regionData = site.data._regions.en._pages['about.html']['testRegion'][0]}}
+    <div class='tt-region-ped' data-ped-index=0 data-ped-type='customTemplate'>
+      <div class="row content-panel">
+        <div class="col-md-6 content-col content-col--{{regionData.col1.style}}" data-live-editable='{{regionData.col1.type}}'>{{regionData.col1.content}}</div>
+        <div class="col-md-6 content-col content-col--{{col1.style}}" data-live-editable='{{regionData.col2.type}}'>{{regionData.col2.content}}</div>
+      </div>
+    </div>
+    {{ assign regionData = site.data._regions.en._pages['about.html']['testRegion'][1]}}
+    <div class='tt-region-ped' data-ped-index=0 data-ped-type='html'>
+      {{ regionData.content }}
+    </div>
+  </div>
+</div>
+
+
+<div class="row content-panel">
+  <div class="col-md-6 content-col">
+    {% regionblock panel_1_column_1 %}
+        <h3>Kicker</h3>
+        <h2>Header</h2>
+        <h4>Subheader</h4>
+        <p>Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on.</p>
+        <p>Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on. </p>
+        <p>
+          <a class='button' href="#">Make a reservation</a>      
+        </p>
+    {% endregionblock %}
+  </div>
+  <div class="col-md-6 content-col  content-col--black">
+    {% regionblock panel_1_column_2 %}
+      <div class="image-frame--cover full-bleed"><img src='//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121201/lobby.jpg'/></div>
+    {% endregionblock %}
+  </div>
+</div>
+
+
+<div class="row content-panel">
+  <div class="col-md-6 content-col content-col--light">
+    {% regionblock panel_2_column_1 %}
+        <h3>Kicker</h3>
+        <h2>Header</h2>
+        <p>Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on.</p>        
+    {% endregionblock %}
+  </div>
+  <div class="col-md-6 content-col content-col--gold">
+    {% regionblock panel_2_column_2 %}
+      <h3>Kicker</h3>
+      <h2>Header</h2>
+      <p>Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on.</p>              
+    {% endregionblock %}
+  </div>
+</div>
+
+
+<div class="row content-panel">
+  <div class="col-md-6 content-col content-col--black">
+    {% regionblock panel_3_column_1 %}
+      <div class="image-frame--cover full-bleed">
+        <img src='//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121201/lobby.jpg'/>
+      </div>
+    {% endregionblock %}
+  </div>
+  <div class="col-md-6 content-col">
+    {% regionblock panel_3_column_2 %}
+      <h3>Kicker</h3>
+      <h2>Header</h2>
+      <p>Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on.</p>
+    {% endregionblock %}
+  </div>
+</div>
+
+<div class="row content-panel">
+  <div class="col-md-6 content-col content-col--gold">
+    {% regionblock panel_4_column_1 %}
+      <h3>Kicker</h3>
+      <h2>Header</h2>
+      <p>Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on.</p>              
+    
+    {% endregionblock %}
+  </div>
+  <div class="col-md-6 content-col content-col--dark ">
+    {% regionblock panel_4_column_2 %}
+        <h2>Header</h2>
+        <p>Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on.</p>        
+    {% endregionblock %}
+  </div>
+</div>
+
+
+
+<div class="row content-panel">
+  <div class="col-md-6 content-col">
+    {% regionblock panel_5_column_1 %}
+        <h3>Kicker</h3>
+        <h2>Header</h2>
+        <p>Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on.</p>        
+    {% endregionblock %}
+  </div>
+  <div class="col-md-6 content-col">
+    {% region panel_5_column_2 %}
+  </div>
+</div>
+
+
+
+<div class='footer-break'></div>
