@@ -89,9 +89,9 @@ module Jekyll
       #liquid = Liquid::Template.parse(read_include(include_data_path, template, default_content(template)))
       liquid = Liquid::Template.parse(liquid_template(template_name, context))
       
-      context['include'] = {'instance' => ped}
+      renerable_context = context.merge({"item"=>ped})
       wrap('div', 'class' => 'tt-region_ped', 'data-ped-index' => index, 'data-ped-type' => ped['_template']) do
-        liquid.render(context)
+        liquid.render(renerable_context)
       end
     end
 
@@ -138,10 +138,10 @@ module Jekyll
     def liquid_template(template_name, context)
       case template_name
         when 'html'
-          '{{include.instance.content}}'          
+          '{{item.content}}'          
         else
           site = context.registers[:site]
-          site.data['region_config'][template_name]['template']
+          site.data['region_config'][template_name]['template'].to_s
       end
     end
   end
