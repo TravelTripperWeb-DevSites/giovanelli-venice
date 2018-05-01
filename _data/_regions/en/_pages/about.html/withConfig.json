@@ -2,7 +2,7 @@
   {
     "_template": "html",
     "col1": {
-      "content": "<p>New Content</p>"
+      "content": "<p>New Content!</p>"
     },
     "col2": {
       "content": "<p>New Content!</p>"
