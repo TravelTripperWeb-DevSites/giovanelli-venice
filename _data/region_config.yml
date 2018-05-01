@@ -2,6 +2,9 @@ customTemplate:
   name: "2-Col"
   editableContent:
     col1:
+      default: 
+        type: "html"
+        content: "<p>New Content</p>"        
       settings:
         type:
           type: "select"
@@ -10,6 +13,9 @@ customTemplate:
           type: "select"
           options: ["black", "dark", "light", "gold"]
     col2:
+      default: 
+        type: "html"
+        content: "<p>New Content</p>"              
       settings:
         type:
           type: "select"
@@ -17,4 +23,4 @@ customTemplate:
         style:
           type: "select"
           options: ["black", "dark", "light", "gold"]
-  template: <div class="row content-panel"><div class="col-md-6 content-col content-col--{{col1.style}}">{{col1.content}}</div><div class="col-md-6 content-col content-col--{{col1.style}}">{{col2.content}}</div></div>
+  template: <div class="row content-panel"><div class="col-md-6 content-col content-col--{{col1.style}}" data-live-editable-type='{{regionData.col1.type}}' data-live-editable-key='col1'>{{col1.content}}</div><div class="col-md-6 content-col content-col--{{col1.style}}" data-live-editable-type='{{regionData.col2.type}}' data-live-editable-key='col2'>{{col2.content}}</div></div>
