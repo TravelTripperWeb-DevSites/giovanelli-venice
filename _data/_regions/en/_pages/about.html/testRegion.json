@@ -11,5 +11,9 @@
   {
     "_template": "html",
     "content": "<p><strong>Test</strong></p>\n<h4><strong>This is a test post</strong></h4>"
+  },
+  {
+    "_template": "html",
+    "content": "<p>A new region!</p>"
   }
 ]
