@@ -7,5 +7,12 @@
     "col2": {
       "content": "<p>TSESET</p>"
     }
+  },
+  null,
+  {
+    "col2": {
+      "content": "<p>setset</p>"
+    },
+    "_template": "customTemplate"
   }
 ]
