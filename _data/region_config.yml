@@ -1,0 +1,20 @@
+customTemplate:
+  name: "2-Col"
+  editableContent:
+    col1:
+      settings:
+        type:
+          type: "select"
+          options: ["html", "image"]
+        style:
+          type: "select"
+          options: ["black", "dark", "light", "gold"]
+    col2:
+      settings:
+        type:
+          type: "select"
+          options: ["html", "image"]
+        style:
+          type: "select"
+          options: ["black", "dark", "light", "gold"]
+  template: <div class="row content-panel"><div class="col-md-6 content-col content-col--{{col1.style}}">{{col1.content}}</div><div class="col-md-6 content-col content-col--{{col1.style}}">{{col2.content}}</div></div>
