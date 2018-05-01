@@ -2,7 +2,7 @@
   {
     "_template": "customTemplate",
     "col1": {
-      "content": "<p>New Content!!!</p>"
+      "content": "<h5>New Content !! dfsdf</h5>"
     },
     "col2": {
       "content": "<p>New Content</p>"
