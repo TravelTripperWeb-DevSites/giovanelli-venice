@@ -47,8 +47,8 @@ layout: default
     {% assign regionData = site.data._regions.en._pages['about']['testRegion'][0] %}
     <div class='tt-region-ped' data-ped-index=0 data-ped-type='customTemplate'>
       <div class="row content-panel">
-        <div class="col-md-6 content-col content-col--{{regionData.col1.style}}" data-live-editable='{{regionData.col1.type}}' data-live-editable-key='col1'>{{regionData.col1.content}}</div>
-        <div class="col-md-6 content-col content-col--{{col1.style}}" data-live-editable='{{regionData.col2.type}}' data-live-editable-key='col2'>{{regionData.col2.content}}</div>
+        <div class="col-md-6 content-col content-col--{{regionData.col1.style}}" data-live-editable-type='{{regionData.col1.type}}' data-live-editable-key='col1'>{{regionData.col1.content}}</div>
+        <div class="col-md-6 content-col content-col--{{col1.style}}" data-live-editable-type='{{regionData.col2.type}}' data-live-editable-key='col2'>{{regionData.col2.content}}</div>
       </div>
     </div>
   </div>
