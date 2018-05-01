@@ -1,7 +1,9 @@
 [
   {
     "_template": "html",
-    "col1": "<p>Col 1</p>"
+    "col1": {
+      "content": "<p>Test</p>"
+    }
   },
   {
     "_template": "html",
