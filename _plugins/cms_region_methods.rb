@@ -17,7 +17,7 @@ module Jekyll
       # include_data_path = File.join(root_path, site.config['includes_dir'], '_regions')
 
       region_items = read_data_json_from(context)
-      raise "Array is expected in #{@filename}, but #{region_items.class.to_s} found" unless region_items.instance_of? Array
+      raise "Array is expected in #{@filename}, but #{region_items.class.to_s} found" unless (region_items.instance_of?(Array) || region_items.nil?)
 
       site.data['regions'] << File.join(page_folder, @filename)
 
@@ -46,7 +46,7 @@ module Jekyll
       wrap('div', tt_region_options) do
         children = []
         children << script_content
-        if region_items.size == 0
+        if region_items.nil?
           #empty_region_content(include_data_path, context)
           children << empty_region_content(context)
         else
@@ -78,16 +78,16 @@ module Jekyll
 
     #def empty_region_content(include_data_path, context)
     def empty_region_content(context)
-      #include(context, 0, {"_template"=>"html"})
+      include(context, 0, {"_template"=>"html"})
     end
 
     #def include(include_data_path, context, index, ped)
     def include(context, index, ped)
-      template = ped['_template']
-      raise "'_template' property not found in \n#{ped.to_s}" if template.nil?
+      template_name = ped['_template']
+      raise "'_template' property not found in \n#{ped.to_s}" if template_name.nil?
 
       #liquid = Liquid::Template.parse(read_include(include_data_path, template, default_content(template)))
-      liquid = Liquid::Template.parse(default_content(template))
+      liquid = Liquid::Template.parse(liquid_template(template_name, context))
       
       context['include'] = {'instance' => ped}
       wrap('div', 'class' => 'tt-region_ped', 'data-ped-index' => index, 'data-ped-type' => ped['_template']) do
@@ -126,7 +126,7 @@ module Jekyll
       if locale != site.default_lang 
         return read_data_json_from(context, site.default_lang)
       else
-        return []
+        return nil
       end
     end
 
@@ -135,12 +135,13 @@ module Jekyll
       "<#{tag} #{attrs}>#{yield}</#{tag}>"
     end
 
-    def default_content(template)
-      case template
+    def liquid_template(template_name, context)
+      case template_name
         when 'html'
-          '{{include.instance.content}}'
+          '{{include.instance.content}}'          
         else
-          nil
+          site = context.registers[:site]
+          site.data['region_config'][template_name]['template']
       end
     end
   end
