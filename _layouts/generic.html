@@ -44,7 +44,7 @@ layout: default
     }
   </script>
   <div class="row content-panel">
-    {% assign regionData = site.data._regions.en._pages['about.html']['testRegion'][0] %}
+    {% assign regionData = site.data._regions.en._pages['about']['testRegion'][0] %}
     <div class='tt-region-ped' data-ped-index=0 data-ped-type='customTemplate'>
       <div class="row content-panel">
         <div class="col-md-6 content-col content-col--{{regionData.col1.style}}" data-live-editable='{{regionData.col1.type}}' data-live-editable-item='col1'data''>{{regionData.col1.content}}</div>
@@ -52,7 +52,7 @@ layout: default
       </div>
     </div>
   </div>
-  {% assign regionData = site.data._regions.en._pages['about.html']['testRegion'][1] %}
+  {% assign regionData = site.data._regions.en._pages['about'].testRegion[1] %}
   <div class='tt-region-ped' data-ped-index=1 data-ped-type='html'>
     {{ regionData.content }}
   </div>
