@@ -10,6 +10,6 @@
   },
   {
     "_template": "html",
-    "content": "<p>Test</p>"
+    "content": "<p><strong>Test</strong></p>\n<h4><strong>This is a test post</strong></h4>"
   }
 ]
