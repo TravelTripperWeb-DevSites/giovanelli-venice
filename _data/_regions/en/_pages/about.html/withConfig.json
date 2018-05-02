@@ -20,7 +20,7 @@
     "_template": "customTemplate",
     "col1": {
       "type": "html",
-      "content": "<p>New Content</p>",
+      "content": "<p>New Content - sortable</p>",
       "style": "gold"
     },
     "col2": {
