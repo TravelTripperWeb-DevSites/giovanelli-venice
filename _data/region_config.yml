@@ -8,10 +8,24 @@ customTemplate:
       settings:
         type:
           type: "select"
-          options: ["html", "image"]
+          options: 
+            - value: html
+              name: HTML
+            - value: image
+              name: IMAGE
         style:
           type: "select"
-          options: ["black", "dark", "light", "gold"]
+          options: 
+            - value: ""
+              name: White Background
+            - value: "black"
+              name: Black Background
+            - value: "dark"
+              name: Dark Background
+            - value: "light"
+              name: Light Background
+            - value: "gold"
+              name: Gold Background
     col2:
       default: 
         type: "html"
@@ -19,8 +33,22 @@ customTemplate:
       settings:
         type:
           type: "select"
-          options: ["html", "image"]
+          options: 
+            - value: html
+              name: HTML
+            - value: image
+              name: IMAGE
         style:
           type: "select"
-          options: ["black", "dark", "light", "gold"]
+          options: 
+            - value: ""
+              name: White Background
+            - value: "black"
+              name: Black Background
+            - value: "dark"
+              name: Dark Background
+            - value: "light"
+              name: Light Background
+            - value: "gold"
+              name: Gold Background
   template: <div class="row content-panel"><div class="col-md-6 content-col content-col--{{item.col1.style}}" data-live-editable-type='{{item.col1.type}}' data-live-editable-key='col1'>{{item.col1.content}}</div><div class="col-md-6 content-col content-col--{{item.col1.style}}" data-live-editable-type='{{item.col2.type}}' data-live-editable-key='col2'>{{item.col2.content}}</div></div>
