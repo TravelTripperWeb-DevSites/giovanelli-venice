@@ -34,7 +34,7 @@
     "col1": {
       "type": "html",
       "content": "<p>New Content</p>",
-      "style": ""
+      "style": "gold"
     },
     "col2": {
       "type": "html",
