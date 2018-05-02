@@ -35,7 +35,8 @@
     },
     "col2": {
       "type": "html",
-      "content": "<p>New Content</p>"
+      "content": "<p>New Content</p>",
+      "style": "black"
     }
   }
 ]
