@@ -5,10 +5,7 @@
     },
     "_template": "customTemplate",
     "col1": {
-      "content": {
-        "type": "html",
-        "style": "dark"
-      }
+      "content": "<p>Woohoo!</p>"
     }
   },
   {
