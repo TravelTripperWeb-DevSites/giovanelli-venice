@@ -51,4 +51,4 @@ customTemplate:
               name: Light Background
             - value: "gold"
               name: Gold Background
-  template: <div class="row content-panel"><div class="col-md-6 content-col content-col--{{item.col1.style}}" data-live-editable-type='{{item.col1.type}}' data-live-editable-key='col1'>{{item.col1.content}}</div><div class="col-md-6 content-col content-col--{{item.col1.style}}" data-live-editable-type='{{item.col2.type}}' data-live-editable-key='col2'>{{item.col2.content}}</div></div>
+  template: <div class="row content-panel"><div class="col-md-6 content-col content-col--{{item.col1.style}}" data-live-editable-type='{{item.col1.type}}' data-live-editable-key='col1'>{{item.col1.content}}</div><div class="col-md-6 content-col content-col--{{item.col2.style}}" data-live-editable-type='{{item.col2.type}}' data-live-editable-key='col2'>{{item.col2.content}}</div></div>
