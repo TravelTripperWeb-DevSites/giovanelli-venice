@@ -3,7 +3,10 @@
     "col2": {
       "content": "<p>setset</p>"
     },
-    "_template": "customTemplate"
+    "_template": "customTemplate",
+    "col1": {
+      "content": "<p>Woohoo!</p>"
+    }
   },
   {
     "content": "<p>New HTML!</p>",
