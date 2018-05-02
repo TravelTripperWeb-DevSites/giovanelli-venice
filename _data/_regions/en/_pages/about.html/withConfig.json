@@ -1,7 +1,7 @@
 [
   {
     "col2": {
-      "content": "<p>setset</p>"
+      "content": "<p>Here's another&nbsp;</p>\n<p>Block of text</p>"
     },
     "_template": "customTemplate",
     "col1": {
