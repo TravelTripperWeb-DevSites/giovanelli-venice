@@ -1,9 +1,5 @@
 [
   {
-    "content": "<p>New HTML!</p>",
-    "_template": "html"
-  },
-  {
     "_template": "customTemplate",
     "col1": {
       "type": "html",
@@ -15,6 +11,10 @@
       "content": "<p>New Content</p>",
       "style": "gold"
     }
+  },
+  {
+    "content": "<p>New HTML!</p>",
+    "_template": "html"
   },
   {
     "_template": "customTemplate",
