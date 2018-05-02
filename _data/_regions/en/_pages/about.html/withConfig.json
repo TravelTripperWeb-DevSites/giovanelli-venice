@@ -31,7 +31,8 @@
     "_template": "customTemplate",
     "col1": {
       "type": "html",
-      "content": "<p>New Content</p>"
+      "content": "<p>New Content</p>",
+      "style": "gold"
     },
     "col2": {
       "type": "html",
