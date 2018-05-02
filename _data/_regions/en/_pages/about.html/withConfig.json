@@ -1,16 +1,12 @@
 [
   {
-    "content": "<p>New HTML!</p>",
-    "_template": "html"
-  },
-  {
-    "content": "<p>New HTML</p>",
-    "_template": "html"
-  },
-  {
     "col2": {
       "content": "<p>setset</p>"
     },
     "_template": "customTemplate"
+  },
+  {
+    "content": "<p>New HTML</p>",
+    "_template": "html"
   }
 ]
