@@ -4,6 +4,10 @@
     "_template": "html"
   },
   {
+    "_template": "html",
+    "content": "<p>New HTML Content!</p>"
+  },
+  {
     "_template": "customTemplate",
     "col1": {
       "type": "html",
@@ -15,10 +19,6 @@
       "content": "<p>New Content2</p>",
       "style": "black"
     }
-  },
-  {
-    "_template": "html",
-    "content": "<p>New HTML Content!</p>"
   },
   {
     "_template": "customTemplate",
