@@ -6,7 +6,7 @@
     "_template": "customTemplate",
     "col1": {
       "content": "<p>Woohoo!</p>",
-      "style": "gold",
+      "style": "dark",
       "type": "html"
     }
   },
