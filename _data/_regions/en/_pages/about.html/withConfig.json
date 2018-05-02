@@ -15,10 +15,5 @@
   {
     "content": "<p>New HTML!</p>",
     "_template": "html"
-  },
-  {
-    "col1": {
-      "content": "<p>New Content!</p>"
-    }
   }
 ]
