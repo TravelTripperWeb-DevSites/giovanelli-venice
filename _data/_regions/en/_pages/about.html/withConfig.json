@@ -1,7 +1,8 @@
 [
   {
     "content": {
-      "content": "<p>New HTML</p>"
+      "content": "<p>New HTML</p>",
+      "_template": "html"
     },
     "_template": "html"
   },
