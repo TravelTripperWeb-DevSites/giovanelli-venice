@@ -1,54 +1,5 @@
 [
   {
-    "0": {
-      "col2": {
-        "content": "<p>Here's another&nbsp;</p>\n<p>Block of text</p>",
-        "style": "gold",
-        "type": "html"
-      },
-      "_template": "customTemplate",
-      "col1": {
-        "content": "<p>Woohoo!!</p>",
-        "style": "black",
-        "type": "html"
-      }
-    },
-    "1": {
-      "content": "<p>New HTML!</p>",
-      "_template": "html"
-    },
-    "2": {
-      "_template": "customTemplate",
-      "col1": {
-        "type": "html",
-        "content": "<p>New Content!</p>",
-        "style": "light"
-      },
-      "col2": {
-        "type": "html",
-        "content": "<p>New Content2</p>",
-        "style": "black"
-      }
-    },
-    "3": {
-      "_template": "html",
-      "content": "<p>New HTML Content!</p>"
-    },
-    "4": {
-      "_template": "customTemplate",
-      "col1": {
-        "type": "html",
-        "content": "<p>New Content</p>",
-        "style": "gold"
-      },
-      "col2": {
-        "type": "html",
-        "content": "<p>New Content</p>",
-        "style": "black"
-      }
-    }
-  },
-  {
     "content": "<p>New HTML!</p>",
     "_template": "html"
   },
