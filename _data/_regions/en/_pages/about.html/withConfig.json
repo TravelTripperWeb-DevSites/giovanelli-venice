@@ -7,19 +7,6 @@
     "_template": "customTemplate",
     "col1": {
       "type": "html",
-      "content": "<p>New Content!</p>",
-      "style": "light"
-    },
-    "col2": {
-      "type": "html",
-      "content": "<p>New Content2</p>",
-      "style": "black"
-    }
-  },
-  {
-    "_template": "customTemplate",
-    "col1": {
-      "type": "html",
       "content": "<p>New Content - sortable</p>",
       "style": "gold"
     },
@@ -27,6 +14,19 @@
       "type": "html",
       "content": "<p>New Content</p>",
       "style": "gold"
+    }
+  },
+  {
+    "_template": "customTemplate",
+    "col1": {
+      "type": "html",
+      "content": "<p>New Content!</p>",
+      "style": "light"
+    },
+    "col2": {
+      "type": "html",
+      "content": "<p>New Content2</p>",
+      "style": "black"
     }
   },
   {
