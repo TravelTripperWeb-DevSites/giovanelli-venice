@@ -17,6 +17,10 @@
     }
   },
   {
+    "_template": "html",
+    "content": "<p>New HTML Content!</p>"
+  },
+  {
     "_template": "customTemplate",
     "col1": {
       "type": "html",
@@ -28,9 +32,5 @@
       "content": "<p>New Content</p>",
       "style": "black"
     }
-  },
-  {
-    "_template": "html",
-    "content": "<p>New HTML Content!</p>"
   }
 ]
