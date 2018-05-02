@@ -24,7 +24,8 @@
     },
     "col2": {
       "type": "html",
-      "content": "<p>New Content2</p>"
+      "content": "<p>New Content2</p>",
+      "style": "light"
     }
   },
   {
