@@ -30,7 +30,7 @@
     "col2": {
       "type": "html",
       "content": "<p>New Content</p>",
-      "style": "black"
+      "style": "gold"
     }
   }
 ]
