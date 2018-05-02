@@ -1,12 +1,9 @@
 [
   {
-    "_template": "customTemplate",
-    "col1": {
-      "content": "<h5>New Content !! dfsdf</h5>"
+    "content": {
+      "content": "<p>New HTML</p>"
     },
-    "col2": {
-      "content": "<p>TSESET</p>"
-    }
+    "_template": "html"
   },
   {
     "content": "<p>New HTML</p>",
