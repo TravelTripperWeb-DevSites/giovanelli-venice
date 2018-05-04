@@ -30,10 +30,6 @@
     "_template": "html"
   },
   {
-    "_template": "html",
-    "content": "<p>New HTML Content!</p>"
-  },
-  {
     "_template": "2_col",
     "col1": {
       "type": "html",
@@ -43,5 +39,9 @@
       "type": "html",
       "content": "<p>New Content</p>"
     }
+  },
+  {
+    "_template": "html",
+    "content": "<p>New HTML Content!</p>"
   }
 ]
