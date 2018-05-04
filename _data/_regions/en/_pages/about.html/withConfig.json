@@ -2,7 +2,7 @@
   {
     "_template": "2_col",
     "col1": {
-      "type": "image",
+      "type": "html",
       "content": "<p>New Content - sortable</p>",
       "style": "gold"
     },
