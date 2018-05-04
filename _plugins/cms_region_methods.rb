@@ -39,7 +39,7 @@ module Jekyll
       script_content = nil
       if region_type == 'mixed'
         script_content = wrap('script', type: "application/json") do
-          site.data['region_config'].to_json
+          site.data['_region_config'].to_json
         end
       end
 
@@ -141,7 +141,7 @@ module Jekyll
           '{{item.content}}'          
         else
           site = context.registers[:site]
-          site.data['region_config'][template_name]['template'].to_s
+          site.data['_region_config'][template_name]['template'].to_s
       end
     end
   end

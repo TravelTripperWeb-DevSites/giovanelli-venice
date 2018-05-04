@@ -1,6 +1,6 @@
 [
   {
-    "_template": "customTemplate",
+    "_template": "2_col",
     "col1": {
       "type": "html",
       "content": "<p>New Content - sortable</p>",
@@ -13,7 +13,7 @@
     }
   },
   {
-    "_template": "customTemplate",
+    "_template": "2_col",
     "col1": {
       "type": "html",
       "content": "<p>New Content!</p>",
