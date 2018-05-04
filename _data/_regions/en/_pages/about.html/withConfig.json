@@ -17,7 +17,7 @@
     "col1": {
       "type": "html",
       "content": "<p>New Content!</p>",
-      "style": "light"
+      "style": "dark"
     },
     "col2": {
       "type": "html",
