@@ -32,5 +32,16 @@
   {
     "_template": "html",
     "content": "<p>New HTML Content!</p>"
+  },
+  {
+    "_template": "2_col",
+    "col1": {
+      "type": "html",
+      "content": "<p>New Content</p>"
+    },
+    "col2": {
+      "type": "html",
+      "content": "<p>New Content</p>"
+    }
   }
 ]
