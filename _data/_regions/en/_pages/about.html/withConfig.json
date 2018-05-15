@@ -29,7 +29,7 @@
     "col2": {
       "type": "html",
       "content": "<p>New Content</p>",
-      "style": "dark"
+      "style": "light"
     }
   },
   {
