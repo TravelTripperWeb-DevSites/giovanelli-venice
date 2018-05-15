@@ -2,19 +2,6 @@
   {
     "_template": "2_col",
     "col1": {
-      "type": "html",
-      "content": "<p>New Content!</p>",
-      "style": "dark"
-    },
-    "col2": {
-      "type": "html",
-      "content": "<p>New Content2</p>",
-      "style": "black"
-    }
-  },
-  {
-    "_template": "2_col",
-    "col1": {
       "type": "image",
       "content": {
         "name": "Junior Suite, Canal View Image 3",
@@ -42,6 +29,19 @@
     "col2": {
       "type": "html",
       "content": "<p>New Content</p>",
+      "style": "black"
+    }
+  },
+  {
+    "_template": "2_col",
+    "col1": {
+      "type": "html",
+      "content": "<p>New Content!</p>",
+      "style": "dark"
+    },
+    "col2": {
+      "type": "html",
+      "content": "<p>New Content2</p>",
       "style": "black"
     }
   },
