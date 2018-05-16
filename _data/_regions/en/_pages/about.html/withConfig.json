@@ -113,6 +113,13 @@
   {
     "_template": "image",
     "content": {
+      "url": "//www.traveltripper.io/images/logo-tt-blue.png",
+      "alt": "TravelTripper Logo"
+    }
+  },
+  {
+    "_template": "image",
+    "content": {
       "name": "Deluxe Double or Twin Room Image 1",
       "file_name": "Deluxe Double or Twin Room Image 1",
       "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092549/68893_1_yankee_large.jpg",
@@ -132,13 +139,6 @@
       "alt": "Image 1",
       "git_file_name": "_assets/image_data/Deluxe-Double-or-Twin-Room-Image-1.json",
       "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092549/68893_1_yankee_large.jpg"
-    }
-  },
-  {
-    "_template": "image",
-    "content": {
-      "url": "//www.traveltripper.io/images/logo-tt-blue.png",
-      "alt": "TravelTripper Logo"
     }
   },
   {
