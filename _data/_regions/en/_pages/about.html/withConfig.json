@@ -155,5 +155,16 @@
       "url": "//www.traveltripper.io/images/logo-tt-blue.png",
       "alt": "TravelTripper Logo"
     }
+  },
+  {
+    "_template": "2_col",
+    "col1": {
+      "type": "html",
+      "content": "<p>New Content</p>"
+    },
+    "col2": {
+      "type": "html",
+      "content": "<p>New Content</p>"
+    }
   }
 ]
