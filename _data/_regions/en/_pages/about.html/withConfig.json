@@ -111,12 +111,7 @@
     "content": "<p>New HTML Content!</p>"
   },
   {
-    "_template": {
-      "0": "h",
-      "1": "t",
-      "2": "m",
-      "3": "l"
-    }
+    "_template": "html"
   },
   {
     "_template": "image",
