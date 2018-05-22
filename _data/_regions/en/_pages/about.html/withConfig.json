@@ -58,7 +58,7 @@
       "content": "<p>New Content</p>",
       "style": "black"
     },
-    "col2_type": "",
+    "col2_type": "html",
     "col1_type": "image"
   },
   {
