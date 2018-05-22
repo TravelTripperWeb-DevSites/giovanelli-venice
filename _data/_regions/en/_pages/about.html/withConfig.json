@@ -157,10 +157,6 @@
     }
   },
   {
-    "_template": "html",
-    "content": "<p>Here's some HTML to enter!</p>"
-  },
-  {
     "_template": "image",
     "content": {
       "url": "//www.traveltripper.io/images/logo-tt-blue.png",
