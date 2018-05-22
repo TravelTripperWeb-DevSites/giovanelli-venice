@@ -96,7 +96,9 @@
       "type": "html",
       "content": "<p>New Content</p>",
       "style": "gold"
-    }
+    },
+    "col2_type": "html",
+    "col1_type": "image"
   },
   {
     "_template": "image",
