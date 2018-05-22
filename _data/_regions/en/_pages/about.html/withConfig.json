@@ -157,10 +157,6 @@
     }
   },
   {
-    "_template": "html",
-    "content": "<p>New HTML Content</p>"
-  },
-  {
     "_template": "image",
     "content": {
       "name": "Deluxe Double or Twin Room Image 1",
