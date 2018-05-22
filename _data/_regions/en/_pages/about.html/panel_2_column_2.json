@@ -2,9 +2,5 @@
   {
     "_template": "html",
     "content": "<p>New HTML Content</p>"
-  },
-  {
-    "_template": "html",
-    "content": "<p>New HTML Content</p>"
   }
 ]
