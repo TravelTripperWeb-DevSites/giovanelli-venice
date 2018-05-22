@@ -196,10 +196,6 @@
     }
   },
   {
-    "_template": "html",
-    "content": "<p>New HTML Content!!!</p>"
-  },
-  {
     "_template": "2_col",
     "col1": {
       "type": "html",
