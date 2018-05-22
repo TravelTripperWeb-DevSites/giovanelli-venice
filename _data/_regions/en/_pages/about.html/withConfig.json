@@ -3,7 +3,7 @@
     "_template": "2_col",
     "col1": {
       "type": "html",
-      "content": "<p>New Content!</p>",
+      "content": "<p>New Content2!!!!</p>",
       "style": "dark"
     },
     "col2": {
