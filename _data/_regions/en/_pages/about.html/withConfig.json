@@ -8,7 +8,19 @@
     },
     "col2": {
       "type": "html",
-      "content": "<p>New Content2!!</p>",
+      "content": {
+        "name": "Image 2",
+        "tags": "gallery",
+        "order": 2,
+        "url": "http://d2r4g49zv9n1lp.cloudfront.net/1277/68882_1_master.jpg",
+        "description": "",
+        "caption": "Image 2",
+        "alt": "Image 2",
+        "date_added": "2018-04-11-131507",
+        "git_file_name": "_assets/image_data/image-2.json",
+        "path": "http://d2r4g49zv9n1lp.cloudfront.net/1277/68882_1_master.jpg",
+        "file_size": null
+      },
       "style": "black"
     },
     "col2_type": "image"
