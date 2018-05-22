@@ -11,7 +11,7 @@
       "content": "<p>New Content2!!</p>",
       "style": "black"
     },
-    "col2_type": "html"
+    "col2_type": "image"
   },
   {
     "_template": "2_col",
