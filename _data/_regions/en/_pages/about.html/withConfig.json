@@ -128,7 +128,8 @@
     "_template": "html"
   },
   {
-    "_template": "html"
+    "_template": "html",
+    "content": "<p>Here's some HTML to enter!</p>"
   },
   {
     "_template": "image",
