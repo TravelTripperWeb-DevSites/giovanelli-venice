@@ -125,7 +125,10 @@
     }
   },
   {
-    "_template": "2_col"
+    "_template": "2_col",
+    "col1": {
+      "content": "<h3>woohoo!</h3>\n<p>Content.</p>"
+    }
   },
   {
     "_template": "html",
