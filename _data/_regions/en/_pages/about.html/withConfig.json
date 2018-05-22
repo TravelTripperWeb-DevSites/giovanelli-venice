@@ -129,7 +129,9 @@
     "col1": {
       "content": "<h3>woohoo!</h3>\n<p>Content.</p>",
       "style": "gold"
-    }
+    },
+    "col2_type": "image",
+    "col1_type": "html"
   },
   {
     "_template": "html",
