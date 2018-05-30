@@ -2,5 +2,12 @@
   {
     "_template": "html",
     "content": "<h3>Pre-Good</h3>\n<h2>Good</h2>\n<p>Here's the content</p>"
+  },
+  {
+    "_template": "image",
+    "content": {
+      "url": "//www.traveltripper.io/images/logo-tt-blue.png",
+      "alt": "TravelTripper Logo"
+    }
   }
 ]
