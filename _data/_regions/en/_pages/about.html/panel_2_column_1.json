@@ -2,9 +2,5 @@
   {
     "content": "<h3>Column 1</h3>\n<p>And some text</p>",
     "_template": "html"
-  },
-  {
-    "_template": "html",
-    "content": "<p>New HTML Content</p>"
   }
 ]
