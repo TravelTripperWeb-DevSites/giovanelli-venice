@@ -4,7 +4,7 @@
     "col1": {
       "type": "html",
       "content": "<p>New Content</p>",
-      "style": "dark"
+      "style": "black"
     },
     "col2": {
       "type": "html",
