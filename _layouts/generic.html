@@ -5,59 +5,7 @@ layout: default
 {% assign default_hero_image = '//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121153/city-view.jpg' %}
 {% include components/short-hero %}
 
-
-<div class='tt-region' data-region='testRegion' data-region-type='mixed'>
-  <script type="application/json">
-    {
-      customTemplate: {
-        settings: {
-        
-        },
-        editableContent: {
-          col1: {
-            settings: {
-              type: {
-                type: "select",
-                options: ["html", "image"]
-              },
-              style: {
-                type: "select",
-                options: "black", "dark", "light", "gold"
-              }  
-            }
-          }
-          col2: {
-            settings: {
-              type: {
-                type: "select",
-                options: ["html", "image"]
-              },
-              style: {
-                type: "select",
-                options: "black", "dark", "light", "gold"
-              }  
-            }
-          }
-        },
-        template: "<div class=\"row content-panel\"><div class=\"col-md-6 content-col content-col--{{col1.style}}\">{{col1.content}}</div><div class=\"col-md-6 content-col content-col--{{col1.style}}\">{{col2.content}}</div></div>"
-      }
-    }
-  </script>
-  <div class="row content-panel">
-    {{ assign regionData = site.data._regions.en._pages['about.html']['testRegion'][0]}}
-    <div class='tt-region-ped' data-ped-index=0 data-ped-type='customTemplate'>
-      <div class="row content-panel">
-        <div class="col-md-6 content-col content-col--{{regionData.col1.style}}" data-live-editable='{{regionData.col1.type}}' data-live-editable-item='col1'>{{regionData.col1.content}}</div>
-        <div class="col-md-6 content-col content-col--{{col1.style}}" data-live-editable='{{regionData.col2.type}}' data-live-editable-item='col2'>{{regionData.col2.content}}</div>
-      </div>
-    </div>
-    {{ assign regionData = site.data._regions.en._pages['about.html']['testRegion'][1]}}
-    <div class='tt-region-ped' data-ped-index=0 data-ped-type='html'>
-      {{ regionData.content }}
-    </div>
-  </div>
-</div>
-
+{% region withConfig, type:mixed %}
 
 <div class="row content-panel">
   <div class="col-md-6 content-col">
