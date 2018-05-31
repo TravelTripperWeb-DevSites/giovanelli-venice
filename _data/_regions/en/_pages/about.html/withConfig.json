@@ -95,7 +95,7 @@
     "col2": {
       "type": "html",
       "content": "<p>New Content</p>",
-      "style": "gold"
+      "style": "dark"
     },
     "col2_type": "html",
     "col1_type": "image"
