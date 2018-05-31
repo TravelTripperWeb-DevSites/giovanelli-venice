@@ -3,7 +3,7 @@
     "_template": "2_col",
     "col1": {
       "type": "html",
-      "content": "<p>New Content</p>",
+      "content": "<h3>Heading2</h3>\n<h2>New Content</h2>\n<p>Here's all my info</p>\n<p>And it makes the image be awesomesauce.</p>",
       "style": "gold"
     },
     "col2": {
