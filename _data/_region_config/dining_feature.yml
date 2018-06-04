@@ -2,7 +2,7 @@ name: "Dining"
 settings: 
   dining_id: 
     type: "model"
-    display_field: "name",
+    display_field: "name"
     model_name: "dining"
   style:
     type: "select"
