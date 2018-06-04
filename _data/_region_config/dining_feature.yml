@@ -1,0 +1,43 @@
+name: "Dining"
+settings: 
+  dining_id: 
+    type: "model"
+    display_field: "name",
+    model_name: "dining"
+  style:
+    type: "select"
+    options: 
+      - value: ""
+        name: White Background
+      - value: "black"
+        name: Black Background
+      - value: "dark"
+        name: Dark Background
+      - value: "light"
+        name: Light Background
+      - value: "gold"
+        name: Gold Background
+      
+template: >
+  {% assign d = site.data._models.dining[item.dining_model.dining_id] %}
+  <div class="row content-panel">
+    {% assign image = d.image %}
+    {% assign classes = 'col-md-6 ' %}
+    {% assign classes = classes | append: 'image-col' %}
+
+    <div class="{{classes}}">
+        <div class='image-frame--cover'>
+          <img src="{{image.url}}" alt='{{image.alt}}' />
+        </div>
+    </div>
+    
+    
+    {% assign classes = 'col-md-6 ' %}
+    {% assign classes = classes | append: 'content-col content-col--' | append: col.style %}
+
+    {% comment %} 3image would be a whole different layout with LET/K being on different items {% endcomment %}   
+    <div class="{{classes}}">
+      <h3>{{ d.name }}</h3>
+      {{ d.description }}
+    </div>
+  </div>
