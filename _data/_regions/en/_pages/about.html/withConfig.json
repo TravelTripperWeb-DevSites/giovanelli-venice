@@ -167,7 +167,7 @@
         "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-05-31-162056/thumb_68900_1_yankee_large.png"
       }
     },
-    "classes": "my-image-class"
+    "classes": "classname"
   },
   {
     "_template": "2_col",
