@@ -19,7 +19,12 @@ settings:
         name: Gold Background
       
 template: >
-  {% assign d = site.data._models.dining[item.dining_model.dining_id] %}
+  {% assign d = null %}
+  {% for dining in site.data._models.dining %}
+    {% if dining.id == item.dining_id %}
+      {% assign d = dining%}
+    {% endif %}
+  {% endfor %}
   <div class="row content-panel">
     {% assign image = d.image %}
     {% assign classes = 'col-md-6 ' %}
