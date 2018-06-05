@@ -78,7 +78,7 @@
         "alt": "Logo",
         "crop": {
           "origin": {
-            "x": 0,
+            "x": 2,
             "y": 0
           },
           "width": 766,
@@ -87,19 +87,19 @@
         "croppedImage": {
           "name": "Celino_Fence2",
           "file_name": "Celino_Fence2.jpg",
-          "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-05-151527/Celino_Fence2.png",
+          "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-05-152546/Celino_Fence2.png",
           "tags": "",
           "description": "",
-          "date_added": "2018-06-05-151527",
+          "date_added": "2018-06-05-152546",
           "file_type": "image/jpeg",
           "width": 766,
           "height": 372,
-          "file_size": 297094,
-          "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-05-151527/large_Celino_Fence2.png",
-          "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-05-151527/medium_Celino_Fence2.png",
-          "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-05-151527/small_Celino_Fence2.png",
-          "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-05-151527/xsmall_Celino_Fence2.png",
-          "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-05-151527/thumb_Celino_Fence2.png"
+          "file_size": 304106,
+          "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-05-152546/large_Celino_Fence2.png",
+          "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-05-152546/medium_Celino_Fence2.png",
+          "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-05-152546/small_Celino_Fence2.png",
+          "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-05-152546/xsmall_Celino_Fence2.png",
+          "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-05-152546/thumb_Celino_Fence2.png"
         }
       }
     }
