@@ -1,6 +1,6 @@
 [
   {
-    "_template": "html",
+    "_template": "image",
     "content": "<h2>Here's test content</h2>\n<p>And my content</p>"
   }
 ]
