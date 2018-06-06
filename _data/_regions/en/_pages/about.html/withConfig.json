@@ -47,7 +47,9 @@
         "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-04-143658/thumb_68900_1_yankee_large.png"
       }
     },
-    "classes": "classname"
+    "classes": "classname",
+    "style": "",
+    "dining_id": "dining1"
   },
   {
     "_template": "2_col",
