@@ -63,7 +63,10 @@
       "content": "<p>New Content</p>"
     },
     "style": "",
-    "dining_id": "dining2"
+    "dining_id": "dining2",
+    "col1_html": {
+      "content": "<h2>Header</h2>\n<p>Body</p>"
+    }
   },
   {
     "_template": "2_col",
