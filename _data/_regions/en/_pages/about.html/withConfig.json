@@ -274,5 +274,8 @@
         "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-07-144605/thumb_img_well.png"
       }
     }
+  },
+  {
+    "_template": "2_col"
   }
 ]
