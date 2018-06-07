@@ -302,7 +302,7 @@
       }
     },
     "col2_html": {
-      "content": "<p>Test</p>\n<p>Html&nbsp;</p>\n<p>aarea</p>"
+      "content": "<p>Test</p>\n<p>Html&nbsp;</p>\n<p><a class=\"button\" href=\"a\">BUTTON</a></p>"
     }
   }
 ]
