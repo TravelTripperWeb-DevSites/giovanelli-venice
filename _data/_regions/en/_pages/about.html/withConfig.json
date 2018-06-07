@@ -66,7 +66,8 @@
     "dining_id": "dining2",
     "col1_html": {
       "content": "<h2>Header</h2>\n<p>Body</p>"
-    }
+    },
+    "col2_type": "image"
   },
   {
     "_template": "2_col",
