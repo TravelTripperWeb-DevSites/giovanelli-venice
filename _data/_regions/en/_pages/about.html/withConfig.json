@@ -52,7 +52,7 @@
     "dining_id": "dining2"
   },
   {
-    "_template": "dining_feature",
+    "_template": "html",
     "col1": {
       "type": "html",
       "content": "<p>New Content</p>",
