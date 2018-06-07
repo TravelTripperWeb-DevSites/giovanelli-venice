@@ -179,7 +179,7 @@
     "content": "<p>New HTML Content</p>"
   },
   {
-    "_template": "html",
+    "_template": "image",
     "content": "<p>New HTML Content</p>"
   }
 ]
