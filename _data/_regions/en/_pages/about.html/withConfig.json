@@ -300,6 +300,9 @@
         "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-05-111232/img_well.jpg",
         "alt": "img well"
       }
+    },
+    "col2_html": {
+      "content": "<p>Test</p>\n<p>Html&nbsp;</p>\n<p>aarea</p>"
     }
   }
 ]
