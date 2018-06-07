@@ -52,6 +52,20 @@
     "dining_id": "dining2"
   },
   {
+    "_template": "dining_feature",
+    "col1": {
+      "type": "html",
+      "content": "<p>New Content</p>",
+      "style": "gold"
+    },
+    "col2": {
+      "type": "html",
+      "content": "<p>New Content</p>"
+    },
+    "style": "",
+    "dining_id": "dining2"
+  },
+  {
     "_template": "2_col",
     "col2_type": "image",
     "col1_type": "html",
@@ -106,19 +120,5 @@
         }
       }
     }
-  },
-  {
-    "_template": "dining_feature",
-    "col1": {
-      "type": "html",
-      "content": "<p>New Content</p>",
-      "style": "gold"
-    },
-    "col2": {
-      "type": "html",
-      "content": "<p>New Content</p>"
-    },
-    "style": "",
-    "dining_id": "dining2"
   }
 ]
