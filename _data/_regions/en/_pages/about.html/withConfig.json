@@ -57,7 +57,7 @@
     "col1_type": "html",
     "col1_html": {
       "content": "<h3>Sub Header</h3>\n<h2>Header</h2>\n<p>Content! Here's all the content and it's great.</p>\n<p><a class=\"button\" href=\"a\">Awesomesauce</a></p>",
-      "style": "black"
+      "style": "gold"
     },
     "col2_image": {
       "content": {
