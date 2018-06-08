@@ -22,10 +22,21 @@ image:
   caption: ''
   description: ''
 rich_text_items:
-- description: "<p>test2</p>"
 - name: '1'
   description: "<p>Test!</p>"
-multi_rich_text: ''
+- description: "<p>test2</p>"
+multi_rich_text:
+- "<"
+- p
+- ">"
+- T
+- e
+- s
+- t
+- "<"
+- "/"
+- p
+- ">"
 single_image:
   name: img well
   file_name: img well.jpg
