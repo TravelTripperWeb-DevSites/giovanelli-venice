@@ -1,0 +1,16 @@
+__EDITABLE_FIELDS__:
+  rich_text_items:
+    type: nested
+    multple: true
+    fields:
+      name:
+        type: string
+      description:
+        type: richtext
+  multi_rich_text:
+    type: rich_text
+    multiple: true
+  image:
+    type: image
+    multiple: true
+  
