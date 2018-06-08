@@ -16,10 +16,15 @@ __EDITABLE_FIELDS__:
   image:
     type: image
     multiple: true
-image: 
+image:
+- url: ''
+  alt: ''
+  caption: ''
+  description: ''
 rich_text_items:
+- description: "<p>test2</p>"
 - name: '1'
-  description: "<p>Test</p>"
+  description: "<p>Test!</p>"
 multi_rich_text: ''
 single_image:
   name: img well
