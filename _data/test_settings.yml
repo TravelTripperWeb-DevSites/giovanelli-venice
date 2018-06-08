@@ -1,7 +1,7 @@
 __EDITABLE_FIELDS__:
   rich_text_items:
     type: nested
-    multple: true
+    multiple: true
     fields:
       name:
         type: string
