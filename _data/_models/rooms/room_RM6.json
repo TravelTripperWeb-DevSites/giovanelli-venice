@@ -9,7 +9,7 @@
   },
   "description_localized": {
     "en": "<strong>1 Double Bed or 1 Twin Bed</strong><br />237-sq-foot (22-sq-meter) room with garden views<br /><br /><b>Internet</b> - WiFi and wired Internet access <br /> <b>Entertainment</b> - 30-inch LCD TV with satellite channels and pay movies<br /><b>Food & Drink</b> - Room service and minibar<br /><b>Sleep</b> - Select Comfort bed, premium bedding, and turndown service <br /><b>Bathroom</b> - Private bathroom, shower/tub combination, slippers, and free toiletries<br /><b>Practical</b> - Phone, safe, and desk<br /><b>Comfort</b> - Air conditioning and daily housekeeping<br />Smoking/Non Smoking<br />&nbsp;",
-    "es": "<strong>1 Double Bed or 1 Twin Bed</strong><br />237-sq-foot (22-sq-meter) room with garden views<br /><br /><b>Internet</b> - WiFi and wired Internet access <br /> <b>Entertainment</b> - 30-inch LCD TV with satellite channels and pay movies<br /><b>Food & Drink</b> - Room service and minibar<br /><b>Sleep</b> - Select Comfort bed, premium bedding, and turndown service <br /><b>Bathroom</b> - Private bathroom, shower/tub combination, slippers, and free toiletries<br /><b>Practical</b> - Phone, safe, and desk<br /><b>Comfort</b> - Air conditioning and daily housekeeping<br />Smoking/Non Smoking<br />&nbsp;"
+    "es": "<p>Espanol!</p>"
   },
   "amenities_localized": {
     "en": [
@@ -46,5 +46,8 @@
   ],
   "": "RM6",
   "order": 6,
-  "reztrip_room_id": "RM6"
+  "reztrip_room_id": "RM6",
+  "url_friendly_name_localized": {
+    "es": "abcd"
+  }
 }
