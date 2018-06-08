@@ -10,7 +10,7 @@ __EDITABLE_FIELDS__:
         type: richtext
   multi_rich_text:
     type: rich_text
-    multiple: true
+    multiple: false
   single_image:
     type: image
   image:
