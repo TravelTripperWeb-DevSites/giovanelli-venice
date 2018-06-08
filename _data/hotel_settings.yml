@@ -13,3 +13,4 @@ address:
   country: 
   zip_code: '30135'
 _hotel_id: HOT061
+_root_path: http://rtexpress-qa.ttaws.com/rt
