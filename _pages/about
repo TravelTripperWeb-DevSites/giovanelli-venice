@@ -1,0 +1,13 @@
+---
+published_localized:
+  en: true
+  es: true
+permalink: "/about/"
+title_localized: About
+layout_localized: generic
+include_in_nav_localized: true
+label: About
+permalink_localized:
+  en: "/about/"
+
+---
