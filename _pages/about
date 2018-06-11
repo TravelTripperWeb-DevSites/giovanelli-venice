@@ -3,7 +3,8 @@ published_localized:
   en: true
   es: true
 permalink: "/about/"
-title_localized: About
+title_localized:
+  en: About Us
 layout_localized: generic
 include_in_nav_localized: true
 label: About
