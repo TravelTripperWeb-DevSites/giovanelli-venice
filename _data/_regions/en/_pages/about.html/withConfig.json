@@ -206,6 +206,8 @@
     },
     "col2_html": {
       "content": "<h2 style=\"text-align: center;\">Hi There</h2>\n<p style=\"text-align: right;\">Some body text that's right aligned for the fun of it! Isn't that just great!</p>"
-    }
+    },
+    "content": "<h2 style=\"text-align: center;\">Hi There</h2>\n<p style=\"text-align: right;\">Some body text that's right aligned for the fun of it! Isn't that just great!</p>",
+    "style": "black"
   }
 ]
