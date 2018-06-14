@@ -84,6 +84,27 @@
       "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-05-31-145602/drum.png",
       "alt": "drum!!",
       "caption": "It's a drum"
+    },
+    {
+      "name": "Junior Suite Image 2",
+      "file_name": "Junior Suite Image 2",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092555/68887_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-12-092555",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 51240,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092555/large_68887_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092555/medium_68887_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092555/small_68887_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092555/xsmall_68887_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092555/thumb_68887_1_yankee_large.jpg",
+      "caption": "Comfy chairs for reading",
+      "alt": "Chair and side table",
+      "git_file_name": "_assets/image_data/Junior-Suite-Image-2.json",
+      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092555/68887_1_yankee_large.jpg"
     }
   ],
   "description": ""
