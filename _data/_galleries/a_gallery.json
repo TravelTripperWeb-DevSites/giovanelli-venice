@@ -82,7 +82,8 @@
       "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-05-31-145602/thumb_drum.png",
       "git_file_name": "_assets/image_data/drum.json",
       "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-05-31-145602/drum.png",
-      "alt": "drum!!"
+      "alt": "drum!!",
+      "caption": "It's a drum"
     }
   ],
   "description": ""
