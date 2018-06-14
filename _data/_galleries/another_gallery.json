@@ -38,8 +38,8 @@
       "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092555/small_68887_1_yankee_large.jpg",
       "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092555/xsmall_68887_1_yankee_large.jpg",
       "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092555/thumb_68887_1_yankee_large.jpg",
-      "caption": "Image 2",
-      "alt": "Image 2",
+      "caption": "",
+      "alt": "Chair and Table",
       "git_file_name": "_assets/image_data/Junior-Suite-Image-2.json",
       "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092555/68887_1_yankee_large.jpg"
     },
