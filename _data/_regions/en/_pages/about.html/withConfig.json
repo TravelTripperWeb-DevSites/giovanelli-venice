@@ -215,6 +215,8 @@
     "_template": "2_col",
     "col1_html": {
       "content": "<p>HTML</p>\n<p><span style=\"letter-spacing: 0.35px;\">HTML</span></p>\n<p><span style=\"letter-spacing: 0.35px;\">HTML</span><span style=\"letter-spacing: 0.35px;\"></span></p>\n<p><span style=\"letter-spacing: 0.35px;\">HTML</span><span style=\"letter-spacing: 0.35px;\"></span></p>\n<p><span style=\"letter-spacing: 0.35px;\">HTML</span><span style=\"letter-spacing: 0.35px;\"></span></p>\n<p><span style=\"letter-spacing: 0.35px;\">HTML</span><span style=\"letter-spacing: 0.35px;\"></span></p>"
-    }
+    },
+    "col2_type": "image",
+    "col1_type": "html"
   }
 ]
