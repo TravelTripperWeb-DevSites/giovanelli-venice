@@ -1,5 +1,7 @@
 {
-  "name_localized": "Big Monument",
+  "name_localized": {
+    "es": "Big Monumenta"
+  },
   "category": [
     "Sights"
   ],
