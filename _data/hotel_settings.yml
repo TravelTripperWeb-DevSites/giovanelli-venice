@@ -44,5 +44,4 @@ __EDITABLE_FIELDS__:
       type: float
     longitude:
       type: float
-logo:
-  content: Palazzo Giovanelli e Gran Canal
+logo: Palazzo Giovanelli e Gran Canal
