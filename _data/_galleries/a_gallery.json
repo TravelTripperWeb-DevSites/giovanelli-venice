@@ -63,6 +63,26 @@
       "alt": "Image 1",
       "git_file_name": "_assets/image_data/Junior-Suite--Canal-View-Image-1.json",
       "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092601/68896_1_yankee_large.jpg"
+    },
+    {
+      "name": "img well",
+      "file_name": "img well.jpg",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-05-111232/img_well.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-06-05-111232",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 214790,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-05-111232/large_img_well.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-05-111232/medium_img_well.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-05-111232/small_img_well.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-05-111232/xsmall_img_well.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-05-111232/thumb_img_well.jpg",
+      "git_file_name": "_assets/image_data/img-well.json",
+      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-05-111232/img_well.jpg",
+      "alt": "img well"
     }
   ],
   "description": ""
