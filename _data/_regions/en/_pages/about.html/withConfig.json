@@ -203,6 +203,9 @@
           "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-14-115528/thumb_68898_1_yankee_large.png"
         }
       }
+    },
+    "col2_html": {
+      "content": "<h2 style=\"text-align: center;\">Hi There</h2>\n<p style=\"text-align: right;\">Some body text that's right aligned for the fun of it! Isn't that just great!</p>"
     }
   }
 ]
