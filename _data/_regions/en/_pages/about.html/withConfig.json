@@ -153,6 +153,8 @@
     }
   },
   {
-    "_template": "2_col"
+    "_template": "2_col",
+    "col2_type": "image",
+    "col1_type": "html"
   }
 ]
