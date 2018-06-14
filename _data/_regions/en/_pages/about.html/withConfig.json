@@ -154,7 +154,7 @@
   },
   {
     "_template": "2_col",
-    "col2_type": "image",
-    "col1_type": "html"
+    "col2_type": "html",
+    "col1_type": "image"
   }
 ]
