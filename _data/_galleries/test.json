@@ -63,6 +63,19 @@
       "alt": "Big Canopy Bed",
       "git_file_name": "_assets/image_data/Junior-Suite--Canal-View-Image-3.json",
       "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092605/68900_1_yankee_large.jpg"
+    },
+    {
+      "name": "Application-Food-Vendor",
+      "file_name": "Application-Food-Vendor.pdf",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-05-111234/Application-Food-Vendor.pdf",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-06-05-111234",
+      "file_size": 52510,
+      "file_type": "application/pdf",
+      "git_file_name": "_assets/image_data/Application-Food-Vendor.json",
+      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-05-111234/Application-Food-Vendor.pdf",
+      "alt": "Application-Food-Vendor"
     }
   ],
   "description": ""
