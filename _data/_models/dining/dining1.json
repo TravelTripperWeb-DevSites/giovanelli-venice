@@ -1,5 +1,5 @@
 {
-  "tagline": "Join us for dinner!",
+  "tagline": "Join us for dinner",
   "image": {
     "id": 6,
     "name": "breakfast",
@@ -24,7 +24,7 @@
   "reservations_url": "http://www.google.com",
   "order": 1,
   "name_localized": {
-    "en": "The Fancy Restaurant!"
+    "en": "The Fancy Restaurant"
   },
   "description_localized": {
     "en": "<p>Info about the restaurant</p>"
