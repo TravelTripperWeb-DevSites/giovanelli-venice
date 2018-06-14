@@ -123,10 +123,6 @@
     }
   },
   {
-    "_template": "html",
-    "content": "<p>New HTML Content</p>"
-  },
-  {
     "_template": "2_col",
     "col2_type": "html",
     "col1_type": "image",
@@ -155,5 +151,9 @@
     "col2_html": {
       "content": "<p>Test</p>\n<p>Html&nbsp;</p>\n<p><a class=\"button\" href=\"a\">BUTTON</a></p>"
     }
+  },
+  {
+    "_template": "html",
+    "content": "<p>New HTML Content</p>"
   }
 ]
