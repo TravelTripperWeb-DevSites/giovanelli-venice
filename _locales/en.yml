@@ -2,3 +2,6 @@
 en:
   brg:
     label: BEST Rate
+  dining:
+    buttons:
+      view_menu: Menu
