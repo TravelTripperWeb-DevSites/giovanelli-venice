@@ -178,5 +178,12 @@
     },
     "content": "<h2 style=\"text-align: center;\">Hi There</h2>\n<p style=\"text-align: right;\">Some body text that's right aligned for the fun of it! Isn't that just great!</p>",
     "style": "black"
+  },
+  {
+    "_template": "image",
+    "content": {
+      "url": "//www.traveltripper.io/images/logo-tt-blue.png",
+      "alt": "TravelTripper Logo"
+    }
   }
 ]
