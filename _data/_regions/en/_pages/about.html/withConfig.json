@@ -206,6 +206,8 @@
     "_template": "2_col",
     "col1_html": {
       "content": "<p>Test</p>"
-    }
+    },
+    "col2_type": "image",
+    "col1_type": "html"
   }
 ]
