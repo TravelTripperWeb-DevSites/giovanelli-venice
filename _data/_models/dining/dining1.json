@@ -23,27 +23,27 @@
     "crop": {
       "origin": {
         "x": 0,
-        "y": 226
+        "y": 436
       },
-      "width": 1400,
-      "height": 707
+      "width": 629,
+      "height": 497
     },
     "croppedImage": {
       "name": "breakfast",
       "file_name": "breakfast.jpg",
-      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-144502/breakfast.png",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-144653/breakfast.png",
       "tags": "",
       "description": "",
-      "date_added": "2018-06-18-144502",
+      "date_added": "2018-06-18-144653",
       "file_type": "image/jpeg",
-      "width": 1400,
-      "height": 707,
-      "file_size": 1474663,
-      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-144502/large_breakfast.png",
-      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-144502/medium_breakfast.png",
-      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-144502/small_breakfast.png",
-      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-144502/xsmall_breakfast.png",
-      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-144502/thumb_breakfast.png"
+      "width": 629,
+      "height": 497,
+      "file_size": 467844,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-144653/large_breakfast.png",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-144653/medium_breakfast.png",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-144653/small_breakfast.png",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-144653/xsmall_breakfast.png",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-144653/thumb_breakfast.png"
     }
   },
   "reservations_url": "http://www.google.com",
