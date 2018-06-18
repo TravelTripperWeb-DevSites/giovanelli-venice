@@ -1,6 +1,6 @@
 [
   {
-    "_template": "2_col",
+    "_template": "dining_feature",
     "col1": {
       "type": "html",
       "content": "<p>New Content</p>",
