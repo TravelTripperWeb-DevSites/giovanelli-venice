@@ -1,7 +1,26 @@
 {
   "name": "Still Works!",
   "photos": [
-
+    {
+      "name": "coloseum",
+      "file_name": "coloseum.jpg",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-175309/coloseum.png",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-06-18-175309",
+      "file_type": "image/jpeg",
+      "width": 720,
+      "height": 960,
+      "file_size": 841003,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-175309/large_coloseum.png",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-175309/medium_coloseum.png",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-175309/small_coloseum.png",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-175309/xsmall_coloseum.png",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-175309/thumb_coloseum.png",
+      "git_file_name": "_assets/image_data/coloseum.json",
+      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-175309/coloseum.png",
+      "alt": "coloseum"
+    }
   ],
   "description": ""
 }
