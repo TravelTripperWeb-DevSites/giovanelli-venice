@@ -13,7 +13,7 @@
     "style": "",
     "dining_id": "dining2",
     "col1_html": {
-      "content": "<h2>Header</h2>\n<p>Body&nbsp;<span style=\"letter-spacing: 0.35px;\">Body&nbsp;</span><span style=\"letter-spacing: 0.35px;\">Body&nbsp;</span><span style=\"letter-spacing: 0.35px;\">Body</span><span style=\"letter-spacing: 0.35px;\">Body&nbsp;</span><span style=\"letter-spacing: 0.35px;\">Body</span><span style=\"letter-spacing: 0.35px;\">Body</span><span style=\"letter-spacing: 0.35px;\"></span></p>",
+      "content": "<h2>Header</h2>\n<p>Body&nbsp;<span style=\"letter-spacing: 0.35px;\">Body&nbsp;</span><span style=\"letter-spacing: 0.35px;\">Body&nbsp;</span><span style=\"letter-spacing: 0.35px;\">Body</span><span style=\"letter-spacing: 0.35px;\">Body&nbsp;</span><span style=\"letter-spacing: 0.35px;\">Body</span><span style=\"letter-spacing: 0.35px;\">Body!</span><span style=\"letter-spacing: 0.35px;\"></span></p>",
       "style": "gold"
     },
     "col2_type": "image",
