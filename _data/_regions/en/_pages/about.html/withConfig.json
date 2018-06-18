@@ -203,6 +203,9 @@
     }
   },
   {
-    "_template": "2_col"
+    "_template": "2_col",
+    "col1_html": {
+      "content": "<p>Test</p>"
+    }
   }
 ]
