@@ -201,5 +201,8 @@
       "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-143237/capri.png",
       "alt": "capri"
     }
+  },
+  {
+    "_template": "2_col"
   }
 ]
