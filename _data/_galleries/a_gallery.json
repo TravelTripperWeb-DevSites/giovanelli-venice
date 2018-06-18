@@ -80,8 +80,8 @@
       "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092601/small_68896_1_yankee_large.jpg",
       "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092601/xsmall_68896_1_yankee_large.jpg",
       "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092601/thumb_68896_1_yankee_large.jpg",
-      "caption": "Image 1",
-      "alt": "Image 1",
+      "caption": "A nice room",
+      "alt": "bed in bedroom ",
       "git_file_name": "_assets/image_data/Junior-Suite--Canal-View-Image-1.json",
       "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092601/68896_1_yankee_large.jpg"
     }
