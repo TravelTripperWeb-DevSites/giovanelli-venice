@@ -31,20 +31,21 @@
       "croppedImage": {
         "name": "florence_lightning",
         "file_name": "florence_lightning.png",
-        "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194845/florence_lightning.png",
+        "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-05-134841/florence_lightning.png",
         "tags": "",
         "description": "",
-        "date_added": "2018-06-18-194845",
+        "date_added": "2018-07-05-134841",
         "file_type": "image/jpeg",
         "width": 960,
         "height": 466,
         "file_size": 348139,
-        "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194845/large_florence_lightning.png",
-        "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194845/medium_florence_lightning.png",
-        "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194845/small_florence_lightning.png",
-        "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194845/xsmall_florence_lightning.png",
-        "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194845/thumb_florence_lightning.png"
-      }
+        "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-05-134841/large_florence_lightning.png",
+        "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-05-134841/medium_florence_lightning.png",
+        "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-05-134841/small_florence_lightning.png",
+        "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-05-134841/xsmall_florence_lightning.png",
+        "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-05-134841/thumb_florence_lightning.png"
+      },
+      "caption": "Lightning"
     },
     {
       "name": "coloseum",
