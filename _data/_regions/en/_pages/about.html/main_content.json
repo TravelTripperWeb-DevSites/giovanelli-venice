@@ -255,7 +255,32 @@
         "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194902/thumb_gelato.png",
         "git_file_name": "_assets/image_data/gelato.json",
         "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194902/gelato.png",
-        "alt": "gelato"
+        "alt": "gelato",
+        "crop": {
+          "origin": {
+            "x": 258,
+            "y": 131
+          },
+          "width": 667,
+          "height": 491
+        },
+        "croppedImage": {
+          "name": "gelato",
+          "file_name": "gelato.png",
+          "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-113545/gelato.png",
+          "tags": "",
+          "description": "",
+          "date_added": "2018-07-10-113545",
+          "file_type": "image/jpeg",
+          "width": 667,
+          "height": 491,
+          "file_size": 428062,
+          "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-113545/large_gelato.png",
+          "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-113545/medium_gelato.png",
+          "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-113545/small_gelato.png",
+          "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-113545/xsmall_gelato.png",
+          "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-113545/thumb_gelato.png"
+        }
       }
     },
     "col1_html": {
