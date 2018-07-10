@@ -188,48 +188,48 @@
     "col1_type": "html",
     "col2_image": {
       "content": {
-        "name": "capri",
-        "file_name": "capri.jpg",
-        "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-143237/capri.png",
+        "name": "florence_lightning",
+        "file_name": "florence_lightning.jpg",
+        "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194651/florence_lightning.png",
         "tags": "",
         "description": "",
-        "date_added": "2018-06-18-143237",
+        "date_added": "2018-06-18-194651",
         "file_type": "image/jpeg",
         "width": 960,
         "height": 640,
-        "file_size": 467693,
-        "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-143237/large_capri.png",
-        "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-143237/medium_capri.png",
-        "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-143237/small_capri.png",
-        "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-143237/xsmall_capri.png",
-        "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-143237/thumb_capri.png",
-        "git_file_name": "_assets/image_data/capri.json",
-        "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-143237/capri.png",
-        "alt": "capri",
+        "file_size": 399195,
+        "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194651/large_florence_lightning.png",
+        "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194651/medium_florence_lightning.png",
+        "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194651/small_florence_lightning.png",
+        "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194651/xsmall_florence_lightning.png",
+        "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194651/thumb_florence_lightning.png",
+        "git_file_name": "_assets/image_data/florence-lightning.json",
+        "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194651/florence_lightning.png",
+        "alt": "florence_lightning",
         "crop": {
           "origin": {
-            "x": 0,
-            "y": 0
+            "x": 256,
+            "y": 237
           },
-          "width": 473,
-          "height": 416
+          "width": 470,
+          "height": 403
         },
         "croppedImage": {
-          "name": "capri",
-          "file_name": "capri.png",
-          "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-164947/capri.png",
+          "name": "florence_lightning",
+          "file_name": "florence_lightning.png",
+          "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-101109/florence_lightning.png",
           "tags": "",
           "description": "",
-          "date_added": "2018-06-18-164947",
+          "date_added": "2018-07-10-101109",
           "file_type": "image/jpeg",
-          "width": 473,
-          "height": 416,
-          "file_size": 100490,
-          "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-164947/large_capri.png",
-          "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-164947/medium_capri.png",
-          "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-164947/small_capri.png",
-          "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-164947/xsmall_capri.png",
-          "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-164947/thumb_capri.png"
+          "width": 470,
+          "height": 403,
+          "file_size": 180402,
+          "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-101109/large_florence_lightning.png",
+          "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-101109/medium_florence_lightning.png",
+          "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-101109/small_florence_lightning.png",
+          "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-101109/xsmall_florence_lightning.png",
+          "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-101109/thumb_florence_lightning.png"
         }
       }
     }
