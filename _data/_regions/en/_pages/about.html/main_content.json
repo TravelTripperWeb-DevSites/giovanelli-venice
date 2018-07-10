@@ -233,12 +233,5 @@
         }
       }
     }
-  },
-  {
-    "_template": "image",
-    "content": {
-      "url": "//www.traveltripper.io/images/logo-tt-blue.png",
-      "alt": "TravelTripper Logo"
-    }
   }
 ]
