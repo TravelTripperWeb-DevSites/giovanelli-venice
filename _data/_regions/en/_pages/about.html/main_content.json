@@ -261,7 +261,8 @@
       }
     },
     "col1_html": {
-      "style": "black"
+      "style": "black",
+      "content": "<h2>Here's my content!</h2>"
     }
   }
 ]
