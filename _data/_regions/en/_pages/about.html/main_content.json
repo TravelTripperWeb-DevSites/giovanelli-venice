@@ -206,8 +206,8 @@
         "alt": "florence_lightning",
         "crop": {
           "origin": {
-            "x": 256,
-            "y": 237
+            "x": 252,
+            "y": 206
           },
           "width": 470,
           "height": 403
@@ -215,19 +215,19 @@
         "croppedImage": {
           "name": "florence_lightning",
           "file_name": "florence_lightning.png",
-          "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-101109/florence_lightning.png",
+          "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-114121/florence_lightning.png",
           "tags": "",
           "description": "",
-          "date_added": "2018-07-10-101109",
+          "date_added": "2018-07-10-114121",
           "file_type": "image/jpeg",
           "width": 470,
           "height": 403,
-          "file_size": 180402,
-          "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-101109/large_florence_lightning.png",
-          "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-101109/medium_florence_lightning.png",
-          "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-101109/small_florence_lightning.png",
-          "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-101109/xsmall_florence_lightning.png",
-          "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-101109/thumb_florence_lightning.png"
+          "file_size": 159864,
+          "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-114121/large_florence_lightning.png",
+          "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-114121/medium_florence_lightning.png",
+          "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-114121/small_florence_lightning.png",
+          "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-114121/xsmall_florence_lightning.png",
+          "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-114121/thumb_florence_lightning.png"
         }
       }
     }
