@@ -259,6 +259,9 @@
         "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194902/gelato.png",
         "alt": "gelato"
       }
+    },
+    "col1_html": {
+      "style": "black"
     }
   }
 ]
