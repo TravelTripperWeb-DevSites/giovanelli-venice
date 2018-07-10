@@ -244,24 +244,24 @@
   {
     "_template": "image",
     "content": {
-      "name": "gelato",
-      "file_name": "gelato.jpg",
-      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194902/gelato.png",
+      "name": "PropertyDimensions-Zoomed",
+      "file_name": "PropertyDimensions-Zoomed.png",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194748/PropertyDimensions-Zoomed.png",
       "tags": "",
       "description": "",
-      "date_added": "2018-06-18-194902",
-      "file_type": "image/jpeg",
-      "width": 960,
-      "height": 720,
-      "file_size": 923221,
-      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194902/large_gelato.png",
-      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194902/medium_gelato.png",
-      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194902/small_gelato.png",
-      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194902/xsmall_gelato.png",
-      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194902/thumb_gelato.png",
-      "git_file_name": "_assets/image_data/gelato.json",
-      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194902/gelato.png",
-      "alt": "gelato"
+      "date_added": "2018-06-18-194748",
+      "file_type": "image/png",
+      "width": 2332,
+      "height": 1688,
+      "file_size": 1677021,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194748/large_PropertyDimensions-Zoomed.png",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194748/medium_PropertyDimensions-Zoomed.png",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194748/small_PropertyDimensions-Zoomed.png",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194748/xsmall_PropertyDimensions-Zoomed.png",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194748/thumb_PropertyDimensions-Zoomed.png",
+      "git_file_name": "_assets/image_data/PropertyDimensions-Zoomed.json",
+      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194748/PropertyDimensions-Zoomed.png",
+      "alt": "PropertyDimensions-Zoomed"
     }
   }
 ]
