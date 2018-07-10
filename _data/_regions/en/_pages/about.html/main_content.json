@@ -182,7 +182,7 @@
   {
     "_template": "2_col",
     "col1_html": {
-      "content": "<h2>Beautify Sea</h2>\n<p><a class=\"button\" href=\"a\">VISIT</a></p>"
+      "content": "<h2>Lightning at the Duomo</h2>\n<p><a class=\"button\" href=\"a\">VISIT</a></p>"
     },
     "col2_type": "image",
     "col1_type": "html",
