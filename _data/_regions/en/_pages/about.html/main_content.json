@@ -263,5 +263,12 @@
       "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194651/florence_lightning.png",
       "alt": "florence_lightning"
     }
+  },
+  {
+    "_template": "image",
+    "content": {
+      "url": "//www.traveltripper.io/images/logo-tt-blue.png",
+      "alt": "TravelTripper Logo"
+    }
   }
 ]
