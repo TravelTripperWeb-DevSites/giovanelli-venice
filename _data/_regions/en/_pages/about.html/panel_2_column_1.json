@@ -1,6 +1,6 @@
 [
   {
-    "content": "<h3>Column 1</h3>\n<p>And some text</p>\n<p><img id=\"1531230216021\" class=\" \" src=\"//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-094318/large_gelato.png\" alt=\"gelato\" data-image-large=\"//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-094318/large_gelato.png\" data-image-medium=\"//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-094318/medium_gelato.png\" data-image-small=\"//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-094318/small_gelato.png\" data-image-xsmall=\"//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-094318/xsmall_gelato.png\" data-image-thumb=\"//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-094318/thumb_gelato.png\" /></p>",
+    "content": "<h3>Column 1</h3>\n<p>And some text</p>\n<p>&nbsp;</p>",
     "_template": "html"
   }
 ]
