@@ -1,0 +1,91 @@
+{
+  "name": "2",
+  "photos": [
+    {
+      "name": "florence_lightning",
+      "file_name": "florence_lightning.jpg",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194651/florence_lightning.png",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-06-18-194651",
+      "file_type": "image/jpeg",
+      "width": 960,
+      "height": 640,
+      "file_size": 399195,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194651/large_florence_lightning.png",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194651/medium_florence_lightning.png",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194651/small_florence_lightning.png",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194651/xsmall_florence_lightning.png",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194651/thumb_florence_lightning.png",
+      "git_file_name": "_assets/image_data/florence-lightning.json",
+      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194651/florence_lightning.png",
+      "alt": "florence_lightning",
+      "crop": {
+        "origin": {
+          "x": 0,
+          "y": 174
+        },
+        "width": 960,
+        "height": 466
+      },
+      "croppedImage": {
+        "name": "florence_lightning",
+        "file_name": "florence_lightning.png",
+        "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194936/florence_lightning.png",
+        "tags": "",
+        "description": "",
+        "date_added": "2018-06-18-194936",
+        "file_type": "image/jpeg",
+        "width": 960,
+        "height": 466,
+        "file_size": 348139,
+        "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194936/large_florence_lightning.png",
+        "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194936/medium_florence_lightning.png",
+        "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194936/small_florence_lightning.png",
+        "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194936/xsmall_florence_lightning.png",
+        "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194936/thumb_florence_lightning.png"
+      }
+    },
+    {
+      "name": "gelato",
+      "file_name": "gelato.jpg",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194902/gelato.png",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-06-18-194902",
+      "file_type": "image/jpeg",
+      "width": 960,
+      "height": 720,
+      "file_size": 923221,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194902/large_gelato.png",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194902/medium_gelato.png",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194902/small_gelato.png",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194902/xsmall_gelato.png",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194902/thumb_gelato.png",
+      "git_file_name": "_assets/image_data/gelato.json",
+      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194902/gelato.png",
+      "alt": "gelato",
+      "caption": "Cap!"
+    },
+    {
+      "name": "drum",
+      "file_name": "drum.png",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-100326/drum.png",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-07-10-100326",
+      "file_type": "image/png",
+      "width": 128,
+      "height": 128,
+      "file_size": 13748,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-100326/large_drum.png",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-100326/medium_drum.png",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-100326/small_drum.png",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-100326/xsmall_drum.png",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-100326/thumb_drum.png",
+      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-10-100326/drum.png",
+      "alt": "drum"
+    }
+  ],
+  "description": ""
+}
