@@ -1,0 +1,46 @@
+{
+  "description_localized": "",
+  "featured": true,
+  "image": {
+    "name": "Image 1",
+    "tags": "gallery",
+    "order": 1,
+    "url": "http://d2r4g49zv9n1lp.cloudfront.net/1277/68879_1_master.jpg",
+    "description": "",
+    "caption": "",
+    "alt": "Canal",
+    "date_added": "2018-04-11-131506",
+    "git_file_name": "_assets/image_data/image-1.json",
+    "path": "http://d2r4g49zv9n1lp.cloudfront.net/1277/68879_1_master.jpg",
+    "file_size": null,
+    "crop": {
+      "origin": {
+        "x": 0,
+        "y": 366
+      },
+      "width": 2000,
+      "height": 468
+    },
+    "croppedImage": {
+      "name": "68879_1_master",
+      "file_name": "68879_1_master.jpg",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-175008/68879_1_master.png",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-06-18-175008",
+      "file_type": "application/octet-stream",
+      "width": 2000,
+      "height": 468,
+      "file_size": 1646199,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-175008/large_68879_1_master.png",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-175008/medium_68879_1_master.png",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-175008/small_68879_1_master.png",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-175008/xsmall_68879_1_master.png",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-175008/thumb_68879_1_master.png"
+    }
+  },
+  "order": 3,
+  "name_localized": {
+    "en": "The Canal"
+  }
+}
