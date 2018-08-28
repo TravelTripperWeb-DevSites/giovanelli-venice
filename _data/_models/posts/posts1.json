@@ -1,0 +1,10 @@
+{
+  "category": "post_categories1",
+  "title_localized": {
+    "en": "Test Post"
+  },
+  "date": "2018-04-04T04:00:00.000Z",
+  "post_content_localized": {
+    "en": "<p>Content</p>"
+  }
+}

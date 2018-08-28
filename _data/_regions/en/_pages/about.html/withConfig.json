@@ -1,0 +1,195 @@
+[
+  {
+    "_template": "2_col",
+    "col1": {
+      "type": "html",
+      "content": "<p>New Content</p>",
+      "style": "gold"
+    },
+    "col2": {
+      "type": "html",
+      "content": {
+        "name": "Image 2",
+        "tags": "gallery",
+        "order": 2,
+        "url": "http://d2r4g49zv9n1lp.cloudfront.net/1277/68882_1_master.jpg",
+        "description": "",
+        "caption": "Image 2",
+        "alt": "Image 2",
+        "date_added": "2018-04-11-131507",
+        "git_file_name": "_assets/image_data/image-2.json",
+        "path": "http://d2r4g49zv9n1lp.cloudfront.net/1277/68882_1_master.jpg",
+        "file_size": null
+      },
+      "style": "black"
+    },
+    "col2_type": "image",
+    "col1_type": "html"
+  },
+  {
+    "_template": "2_col",
+    "col1": {
+      "type": "image",
+      "content": {
+        "name": "Junior Suite, Canal View Image 3",
+        "file_name": "Junior Suite, Canal View Image 3",
+        "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092605/68900_1_yankee_large.jpg",
+        "tags": "",
+        "description": "",
+        "date_added": "2018-04-12-092605",
+        "file_type": "image/jpeg",
+        "width": 800,
+        "height": 600,
+        "file_size": 83003,
+        "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092605/large_68900_1_yankee_large.jpg",
+        "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092605/medium_68900_1_yankee_large.jpg",
+        "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092605/small_68900_1_yankee_large.jpg",
+        "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092605/xsmall_68900_1_yankee_large.jpg",
+        "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092605/thumb_68900_1_yankee_large.jpg",
+        "caption": "Image 3",
+        "alt": "Image 3",
+        "git_file_name": "_assets/image_data/Junior-Suite--Canal-View-Image-3.json",
+        "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092605/68900_1_yankee_large.jpg"
+      },
+      "style": "dark"
+    },
+    "col2": {
+      "type": "html",
+      "content": "<p>New Content</p>",
+      "style": "black"
+    },
+    "col2_type": "html",
+    "col1_type": "image"
+  },
+  {
+    "content": "<h2>New HTML!</h2>\n<p><img id=\"1525289035550\" class=\" \" src=\"//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092608/68901_1_yankee_large.jpg\" alt=\"Image 4\" width=\"396\" height=\"297\" data-image-large=\"//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092608/large_68901_1_yankee_large.jpg\" data-image-medium=\"//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092608/medium_68901_1_yankee_large.jpg\" data-image-small=\"//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092608/small_68901_1_yankee_large.jpg\" data-image-xsmall=\"//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092608/xsmall_68901_1_yankee_large.jpg\" data-image-thumb=\"//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092608/thumb_68901_1_yankee_large.jpg\" /></p>",
+    "_template": "html"
+  },
+  {
+    "_template": "2_col",
+    "col1": {
+      "type": "image",
+      "content": {
+        "name": "Junior Suite, Canal View Image 4",
+        "file_name": "Junior Suite, Canal View Image 4",
+        "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092608/68901_1_yankee_large.jpg",
+        "tags": "",
+        "description": "",
+        "date_added": "2018-04-12-092608",
+        "file_type": "image/jpeg",
+        "width": 800,
+        "height": 600,
+        "file_size": 39396,
+        "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092608/large_68901_1_yankee_large.jpg",
+        "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092608/medium_68901_1_yankee_large.jpg",
+        "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092608/small_68901_1_yankee_large.jpg",
+        "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092608/xsmall_68901_1_yankee_large.jpg",
+        "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092608/thumb_68901_1_yankee_large.jpg",
+        "caption": "Image 4",
+        "alt": "Image 4",
+        "git_file_name": "_assets/image_data/Junior-Suite--Canal-View-Image-4.json",
+        "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092608/68901_1_yankee_large.jpg"
+      },
+      "style": "black"
+    },
+    "col2": {
+      "type": "html",
+      "content": "<p>New Content</p>",
+      "style": "dark"
+    },
+    "col2_type": "html",
+    "col1_type": "image"
+  },
+  {
+    "_template": "image",
+    "content": {
+      "name": "Junior Suite, Canal View Image 3",
+      "file_name": "Junior Suite, Canal View Image 3",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092605/68900_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-12-092605",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 83003,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092605/large_68900_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092605/medium_68900_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092605/small_68900_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092605/xsmall_68900_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092605/thumb_68900_1_yankee_large.jpg",
+      "caption": "Image 3",
+      "alt": "Image 3",
+      "git_file_name": "_assets/image_data/Junior-Suite--Canal-View-Image-3.json",
+      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092605/68900_1_yankee_large.jpg"
+    }
+  },
+  {
+    "_template": "2_col",
+    "col1": {
+      "content": "<h3>woohoo!</h3>\n<p>Content.</p>",
+      "style": "gold"
+    },
+    "col2_type": "image",
+    "col1_type": "html",
+    "col2": {
+      "content": {
+        "name": "Deluxe Double or Twin Room Image 1",
+        "file_name": "Deluxe Double or Twin Room Image 1",
+        "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092549/68893_1_yankee_large.jpg",
+        "tags": "",
+        "description": "",
+        "date_added": "2018-04-12-092549",
+        "file_type": "image/jpeg",
+        "width": 800,
+        "height": 600,
+        "file_size": 69416,
+        "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092549/large_68893_1_yankee_large.jpg",
+        "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092549/medium_68893_1_yankee_large.jpg",
+        "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092549/small_68893_1_yankee_large.jpg",
+        "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092549/xsmall_68893_1_yankee_large.jpg",
+        "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092549/thumb_68893_1_yankee_large.jpg",
+        "caption": "Image 1",
+        "alt": "delux double",
+        "git_file_name": "_assets/image_data/Deluxe-Double-or-Twin-Room-Image-1.json",
+        "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092549/68893_1_yankee_large.jpg"
+      }
+    }
+  },
+  {
+    "_template": "image",
+    "content": {
+      "name": "Deluxe Double or Twin Room Image 1",
+      "file_name": "Deluxe Double or Twin Room Image 1",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092549/68893_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-12-092549",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 69416,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092549/large_68893_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092549/medium_68893_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092549/small_68893_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092549/xsmall_68893_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092549/thumb_68893_1_yankee_large.jpg",
+      "caption": "Image 1",
+      "alt": "Image 1",
+      "git_file_name": "_assets/image_data/Deluxe-Double-or-Twin-Room-Image-1.json",
+      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092549/68893_1_yankee_large.jpg"
+    }
+  },
+  {
+    "_template": "2_col",
+    "col1": {
+      "type": "html",
+      "content": "<p>New Content</p>",
+      "style": "gold"
+    },
+    "col2": {
+      "type": "html",
+      "content": "<p>New Content</p>"
+    }
+  }
+]
