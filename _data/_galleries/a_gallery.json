@@ -104,6 +104,26 @@
       "git_file_name": "_assets/image_data/coloseum.json",
       "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-175309/coloseum.png",
       "alt": "coloseum"
+    },
+    {
+      "name": "SubEnvironmentSelectionPath-3",
+      "file_name": "SubEnvironmentSelectionPath-3.png",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-20-203328/SubEnvironmentSelectionPath-3.png",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-07-20-203328",
+      "file_type": "image/png",
+      "width": 1366,
+      "height": 913,
+      "file_size": 60649,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-20-203328/large_SubEnvironmentSelectionPath-3.png",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-20-203328/medium_SubEnvironmentSelectionPath-3.png",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-20-203328/small_SubEnvironmentSelectionPath-3.png",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-20-203328/xsmall_SubEnvironmentSelectionPath-3.png",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-20-203328/thumb_SubEnvironmentSelectionPath-3.png",
+      "git_file_name": "_assets/image_data/SubEnvironmentSelectionPath-3.json",
+      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-07-20-203328/SubEnvironmentSelectionPath-3.png",
+      "alt": "SubEnvironmentSelectionPath-3"
     }
   ],
   "description": "",
