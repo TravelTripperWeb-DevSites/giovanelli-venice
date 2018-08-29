@@ -1,17 +1,17 @@
 {
-  "name": "drum",
+  "name": "drum.png",
   "file_name": "drum.png",
-  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_7_14/media/2018-08-29-130003/drum.png",
+  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_7_14/media/2018-08-29-130256/drum.png",
   "tags": "",
   "description": "",
-  "date_added": "2018-08-29-130003",
+  "date_added": "2018-08-29-130256",
   "file_type": "image/png",
   "width": 128,
   "height": 128,
   "file_size": 15236,
-  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_7_14/media/2018-08-29-130003/large_drum.png",
-  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_7_14/media/2018-08-29-130003/medium_drum.png",
-  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_7_14/media/2018-08-29-130003/small_drum.png",
-  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_7_14/media/2018-08-29-130003/xsmall_drum.png",
-  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_7_14/media/2018-08-29-130003/thumb_drum.png"
+  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_7_14/media/2018-08-29-130256/large_drum.png",
+  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_7_14/media/2018-08-29-130256/medium_drum.png",
+  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_7_14/media/2018-08-29-130256/small_drum.png",
+  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_7_14/media/2018-08-29-130256/xsmall_drum.png",
+  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_7_14/media/2018-08-29-130256/thumb_drum.png"
 }
