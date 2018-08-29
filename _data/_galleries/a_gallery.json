@@ -143,7 +143,8 @@
       "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194902/thumb_gelato.png",
       "git_file_name": "_assets/image_data/gelato.json",
       "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194902/gelato.png",
-      "alt": "gelato"
+      "alt": "gelato",
+      "caption": "delicious!"
     },
     {
       "name": "DoorFrameDimenions",
