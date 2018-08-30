@@ -38,7 +38,7 @@
       "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092603/small_68898_1_yankee_large.jpg",
       "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092603/xsmall_68898_1_yankee_large.jpg",
       "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092603/thumb_68898_1_yankee_large.jpg",
-      "caption": "This lovely canopy bed is situated in a large room with rustic exposed beams. There is a view of the city from a full wall of windows.",
+      "caption": "",
       "alt": "Canopy bed in room with exposed wood beams",
       "git_file_name": "_assets/image_data/Junior-Suite--Canal-View-Image-2.json",
       "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092603/68898_1_yankee_large.jpg"
@@ -86,5 +86,6 @@
       "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092601/68896_1_yankee_large.jpg"
     }
   ],
-  "description": ""
+  "description": "",
+  "id": "a_gallery"
 }
