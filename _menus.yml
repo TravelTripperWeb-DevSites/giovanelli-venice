@@ -5,16 +5,21 @@ main:
   depth: 1
   items:
   - page_id: index.html
-    items: 
+    items:
+    - page_id: _pages/about2.html
+      items: 
   - page_id: _pages/rooms.html
     items: 
     expanded: true
   - page_id: _pages/about.html
     items: 
   - page_id: _pages/about2.html
+    items: 
   - page_id: _pages/about2.html
+    items: 
   - page_id: _pages/about2.html
+    items: 
   - page_id: _pages/about2.html
+    items: 
   - page_id: _pages/about2.html
-  - page_id: _pages/about2.html
-
+    items: 
