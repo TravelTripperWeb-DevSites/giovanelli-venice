@@ -11,3 +11,10 @@ main:
     expanded: true
   - page_id: _pages/about.html
     items: 
+  - page_id: _pages/about2.html
+  - page_id: _pages/about2.html
+  - page_id: _pages/about2.html
+  - page_id: _pages/about2.html
+  - page_id: _pages/about2.html
+  - page_id: _pages/about2.html
+
