@@ -4,9 +4,9 @@ main:
   description: Main Site Navigation
   depth: 1
   items:
+  - page_id: _pages/rooms.html
+    items: 
   - page_id: index.html
     items:
     - page_id: _pages/about.html
       items: 
-  - page_id: _pages/rooms.html
-    items: 
