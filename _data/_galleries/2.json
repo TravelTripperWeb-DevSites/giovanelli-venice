@@ -66,27 +66,6 @@
       "alt": "Image 3",
       "git_file_name": "_assets/image_data/Junior-Suite--Canal-View-Image-3.json",
       "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092605/68900_1_yankee_large.jpg"
-    },
-    {
-      "name": "gelato",
-      "file_name": "gelato.jpg",
-      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194902/gelato.png",
-      "tags": "",
-      "description": "",
-      "date_added": "2018-06-18-194902",
-      "file_type": "image/jpeg",
-      "width": 960,
-      "height": 720,
-      "file_size": 923221,
-      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194902/large_gelato.png",
-      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194902/medium_gelato.png",
-      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194902/small_gelato.png",
-      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194902/xsmall_gelato.png",
-      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194902/thumb_gelato.png",
-      "git_file_name": "_assets/image_data/gelato.json",
-      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-06-18-194902/gelato.png",
-      "alt": "gelato",
-      "caption": "Cap!"
     }
   ],
   "description": "",
