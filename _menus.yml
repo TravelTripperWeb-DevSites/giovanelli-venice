@@ -12,10 +12,10 @@ main:
       items: 
     expanded: true
   - page_id: _pages/about2.html
-    items: 
-  - page_id: _pages/rooms.html
-    items: 
-    expanded: true
+    items:
+    - page_id: _pages/rooms.html
+      items: 
+      expanded: true
   - page_id: _pages/about2.html
     items: 
   - page_id: _pages/about2.html
