@@ -1,6 +1,6 @@
 [
   {
-    "content": "<h3>Column 1</h3>\n<p>And some text</p>",
+    "content": "<h3>Column 1</h3>\n<p>And some text</p>\n<p>&nbsp;</p>",
     "_template": "html"
   }
 ]

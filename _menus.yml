@@ -1,0 +1,33 @@
+---
+main:
+  name: Top Menu
+  description: Main Site Navigation
+  depth: 2
+  items:
+  - page_id: index.html
+    items:
+    - page_id: _pages/about.html
+      items: 
+    - page_id: _pages/about2.html
+      items: 
+    expanded: true
+  - page_id: _pages/about2.html
+    items:
+    - page_id: _pages/rooms.html
+      items: 
+      expanded: true
+  - page_id: _pages/about2.html
+    items: 
+  - page_id: _pages/about2.html
+    items: 
+  - page_id: _pages/about2.html
+    items: 
+  - page_id: _pages/about2.html
+    items: 
+footer:
+  name: Bottom Menu
+  description: Footer Nav
+  depth: 1
+  items:
+  - page_id: Footer One
+  - page_id: Footer Two
