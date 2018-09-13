@@ -1,0 +1,34 @@
+{
+  "name": {
+    "type": "string",
+    "required": true
+   },
+   "pets": {
+     "type": "nested",
+     "multiple": true,
+     "fields": {
+      "name": {},
+      "age": { type: "integer"},
+      "image": {
+        "type": "image"
+     }
+   },
+   "photos": {
+     "type": "image",
+     "multiple": true
+   },
+   "favorite_color": {
+     "type": "color"
+   },
+   "other_colors": {
+     "type": "color",
+     "multiple": true
+   },
+   "favorite_location": {
+     "type": "location"
+   },
+   "other_locations": {
+     "type": "location",
+     "multiple": true
+   }
+  }
