@@ -4,6 +4,8 @@ main:
   description: Main Site Navigation
   depth: 2
   items:
+  - page_id: _pages/about2.html
+    items: 
   - page_id: index.html
     items:
     - page_id: _pages/about.html
@@ -16,8 +18,6 @@ main:
     - page_id: _pages/rooms.html
       items: 
       expanded: true
-  - page_id: _pages/about2.html
-    items: 
   - page_id: _pages/about2.html
     items: 
   - page_id: _pages/about2.html
