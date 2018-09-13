@@ -8,7 +8,7 @@
      "multiple": true,
      "fields": {
       "name": {},
-      "age": { type: "integer"},
+      "age": { "type": "integer"},
       "image": {
         "type": "image"
      }
