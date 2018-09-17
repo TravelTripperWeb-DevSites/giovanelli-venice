@@ -10,7 +10,7 @@ main:
       items: 
     - page_id: _pages/about2.html
       items: 
-    expanded: false
+    expanded: true
   - page_id: _pages/about2.html
     items: 
   - page_id: _pages/rooms.html
