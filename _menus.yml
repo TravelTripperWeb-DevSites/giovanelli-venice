@@ -30,4 +30,6 @@ footer:
   depth: 1
   items:
   - page_id: Footer One
+    items: 
   - page_id: Footer Two
+    items: 
