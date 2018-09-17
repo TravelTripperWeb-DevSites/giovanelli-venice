@@ -13,11 +13,11 @@ main:
     - page_id: _pages/about2.html
       items: 
     expanded: true
+  - page_id: _pages/rooms.html
+    items: 
+    expanded: true
   - page_id: _pages/about2.html
-    items:
-    - page_id: _pages/rooms.html
-      items: 
-      expanded: true
+    items: 
   - page_id: _pages/about2.html
     items: 
   - page_id: _pages/about2.html
@@ -30,4 +30,6 @@ footer:
   depth: 1
   items:
   - page_id: Footer One
+    items: 
   - page_id: Footer Two
+    items: 
