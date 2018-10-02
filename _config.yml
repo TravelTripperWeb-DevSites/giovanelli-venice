@@ -62,6 +62,7 @@ default_lang: en
 languages:
 - en
 - es
+- wo
 include:
 - _pages
 encoding: utf-8
