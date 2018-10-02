@@ -61,7 +61,6 @@ url:
 default_lang: en
 languages:
 - en
-- fr
 - es
 include:
 - _pages
