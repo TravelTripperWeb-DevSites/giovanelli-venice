@@ -1,5 +1,7 @@
 {
-  "name": "24-hour front desk",
   "order": 1,
-  "hidden": false
+  "hidden": false,
+  "name_localized": {
+    "en": "24-hour front desk"
+  }
 }
