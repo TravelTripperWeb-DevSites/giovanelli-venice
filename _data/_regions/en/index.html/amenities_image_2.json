@@ -1,25 +1,25 @@
 [
   {
     "content": {
-      "name": "Junior Suite, Canal View Image 4",
-      "file_name": "Junior Suite, Canal View Image 4",
-      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092608/68901_1_yankee_large.jpg",
+      "name": "WallWithVentStays-BeamAndPostDetail",
+      "content_type": "image/jpeg",
       "tags": "",
       "description": "",
-      "date_added": "2018-04-12-092608",
-      "file_type": "image/jpeg",
-      "width": 800,
-      "height": 600,
-      "file_size": 39396,
-      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092608/large_68901_1_yankee_large.jpg",
-      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092608/medium_68901_1_yankee_large.jpg",
-      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092608/small_68901_1_yankee_large.jpg",
-      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092608/xsmall_68901_1_yankee_large.jpg",
-      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092608/thumb_68901_1_yankee_large.jpg",
-      "caption": "Image 4",
-      "alt": "Image 4",
-      "git_file_name": "_assets/image_data/Junior-Suite--Canal-View-Image-4.json",
-      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_158_862/media/2018-04-12-092608/68901_1_yankee_large.jpg"
+      "date_added": "2018-10-17-135142",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1539798702/muyapxnjoivbhqwm3f1p.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1539798702/muyapxnjoivbhqwm3f1p.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1539798702/muyapxnjoivbhqwm3f1p.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1539798702/muyapxnjoivbhqwm3f1p.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1539798702/muyapxnjoivbhqwm3f1p.jpg",
+      "width": 2000,
+      "height": 2667,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1539798702/muyapxnjoivbhqwm3f1p.jpg",
+      "resource_type": "image",
+      "size": 1293096,
+      "path": "https://res.cloudinary.com/traveltripperweb/image/upload/v1539798702/muyapxnjoivbhqwm3f1p.jpg",
+      "file_size": null,
+      "alt": "WallWithVentStays-BeamAndPostDetail"
     },
     "_template": "image"
   }
