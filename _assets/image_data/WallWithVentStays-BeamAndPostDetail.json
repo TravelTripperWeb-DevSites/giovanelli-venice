@@ -14,5 +14,11 @@
   "format": "jpg",
   "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1539798702/muyapxnjoivbhqwm3f1p.jpg",
   "resource_type": "image",
-  "size": 1293096
+  "size": 1293096,
+  "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/4_7_32/media/2018-10-17-135238/muyapxnjoivbhqwm3f1p.jpg",
+  "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/4_7_32/media/2018-10-17-135238/large_muyapxnjoivbhqwm3f1p.jpg",
+  "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/4_7_32/media/2018-10-17-135238/medium_muyapxnjoivbhqwm3f1p.jpg",
+  "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/4_7_32/media/2018-10-17-135238/small_muyapxnjoivbhqwm3f1p.jpg",
+  "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/4_7_32/media/2018-10-17-135238/xsmall_muyapxnjoivbhqwm3f1p.jpg",
+  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/4_7_32/media/2018-10-17-135238/thumb_muyapxnjoivbhqwm3f1p.jpg"
 }
